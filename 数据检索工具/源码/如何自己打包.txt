@@ -1,0 +1,40 @@
+如何自己打包成单个 exe
+======================
+
+源码就在本文件夹里，全部是标准库实现（tkinter + pickle + re + struct 等），没有第三方依赖，
+只要装了 Python 3.10+ 就能直接跑源码：
+
+    python datsearch.py
+
+想自己打包成单个 exe：
+
+  1. 先装 PyInstaller（只需一次）
+       python -m pip install pyinstaller
+
+  2. 在本文件夹执行下面这条命令
+       python -m PyInstaller --noconfirm --onefile --windowed ^
+         --name "AGE数据检索工具" ^
+         --exclude-module numpy --exclude-module pandas --exclude-module PIL ^
+         --exclude-module matplotlib --exclude-module scipy --exclude-module pytest ^
+         --exclude-module setuptools ^
+         datsearch.py
+
+     产物在 dist\AGE数据检索工具.exe（单文件，约 10.5 MB，可直接拷给别人）。
+
+     注意：不要用 --distpath 指到已经放好说明书和预览图的交付目录——
+     PyInstaller 每次打包都会清空目标目录，先打到 dist\ 再手动拷 exe 过去更安全。
+
+  3. 各源码文件的作用
+       datsearch.py        界面 + 检索逻辑 + 自动定位游戏 + 读写配置
+       index_build.py      解析 dat 并建索引（含多字符串表合并、缓存失效判断）
+       datlib.py           dat 二进制解析器，可单独用：datlib.load_input(路径) -> load_payload()
+       tables.py           英文字段名 / 属性 / 类别 / 单位类型 / 文明名的中文对照表
+       cmd_table.py        效果命令类型（0-206）的中文对照表
+       make_cmd_table.py   从 AGE3 源码 Lists.cpp 重新生成 cmd_table.py
+       selftest.py         无窗口自检脚本
+
+  4. 改动后建议跑一次自检
+       python selftest.py
+     正常时最后一行是：===== 自检结果: 全部通过 =====
+     （它会核对：科技 1510 条、效果 1500 条、文明 63 条、磨坊研究点恰好 6 个科技、
+       关键词/字段/编号查询、效果命令中文化、跨文明差异等）
