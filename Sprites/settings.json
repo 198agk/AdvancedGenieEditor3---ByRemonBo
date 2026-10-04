@@ -1,0 +1,47 @@
+{
+	"DiffusePalette": "_palettes\\b_dark.pal",
+	"PlayerColorPalette": "_palettes\\playercolor_default.pal",
+	"PSDPaletteNumber": 16,
+	"WriteTGAs": false,
+	"DiffuseThreshold": 128,
+	"PlayerColorThreshold": 16,
+	"ShadowThreshold": 8,
+	"GenerateX1Assets": true,
+	"AmbientOcclusionStrength": 1.0,
+	"DisablePlayerColor": false,
+	"FadePlayerColor": false,
+	"IgnoreSubDirectories": false,
+	"IndividualSMPs": false,
+	"DownsamplingFilter": {
+		"Algorithm": "Bicubic",
+		"Size": 4,
+		"Scale": 1.0,
+		"Samples": 2,
+		"Alpha": 0.25,
+		"Blur": 0.0,
+		"Ringing": 0.5
+	},
+	"AdjustmentLevel": {
+		"Midtones": 1.0,
+		"Shadows": 0,
+		"Highlights": 255,
+		"OutputShadows": 0,
+		"OutputHighlights": 255
+	},
+	"PlayerColorAdjustmentLevel": {
+		"Midtones": 1.0,
+		"Shadows": 0,
+		"Highlights": 255,
+		"OutputShadows": 0,
+		"OutputHighlights": 255
+	},
+	"Damage": {
+		"Type": "On",
+		"Strength": 0.65
+	},
+	"FacetCount": 1,
+	"IgnoreSLP": true,
+	"PalettePath": "..\\..\\resources\\_common\\palettes",
+	"Compress": true,
+	"DeleteSMP": true
+}
