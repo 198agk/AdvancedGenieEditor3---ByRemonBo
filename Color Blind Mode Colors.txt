@@ -1,0 +1,42 @@
+Color 8
+
+Player Color Base: 144
+Outline Color: 21
+MiniMap Color: 21
+
+Static Text:
+  -String: 8
+  -Drop Down: 8 - Color 8
+
+=============================
+Color 9
+
+Player Color Base: 160
+Outline Color: 70
+MiniMap Color: 70
+
+Static Text:
+  -String: 9
+  -Drop Down: 9 - Color 9
+
+=============================
+Color 10
+
+Player Color Base: 176
+Outline Color: 117
+MiniMap Color: 117
+
+Static Text:
+  -String: 10
+  -Drop Down: 10 - Color 10
+
+=============================
+Color 15 - use add at the bottom left
+
+Player Color Base: 0
+Outline Color: 0
+MiniMap Color: 0
+
+Static Text:
+  -String: 15
+  -Drop Down: 15 - Color 15
