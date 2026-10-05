@@ -1,4 +1,4 @@
-# AGE3 高级 Genie 编辑器 · 简体中文汉化版 + AGE 数据检索工具
+# AdvancedGenieEditor3 · 简体中文汉化版 + AGE 数据检索工具
 
 > **By RemonBo** · 版本 v1.1（2026-10-05）
 > 面向《帝国时代 II：决定版》（AoE2DE）MOD 作者的汉化与速查工具包。
