@@ -26,7 +26,7 @@
 
 | 文件 | 大小 | 说明 |
 | --- | --- | --- |
-| `AGE3汉化版+数据检索工具-v1.1.zip` | 78.9 MB | **完整绿色包**（Release 附件）：AGE3 汉化版 + 名称表 + 语言文件 + 数据检索工具 + 官方数据速查表与文明卡 + 全部说明文档 |
+| `AGE3-HanHua-DataSearch-v1.1.zip` | 78.9 MB | **完整绿色包**（Release 附件）：AGE3 汉化版 + 名称表 + 语言文件 + 数据检索工具 + 官方数据速查表与文明卡 + 全部说明文档 |
 
 - 下载页：<https://github.com/198agk/AdvancedGenieEditor3---HanHua---ByRemonBo/releases>
 - `sha256`：`4DD1EA6F98D1856851DF5CDEAC9A12D4CEAEC7CB3D47D4C3FD259EC8B2E110EE`

@@ -1,5 +1,7 @@
 # 大文件与压缩包（请作为 GitHub Releases 附件上传，不要提交到仓库）
+# 例外：source\ 里的源码包要进仓库（GPLv3 要求随程序提供对应源码）
 *.zip
+!source/*.zip
 *.rar
 *.7z
 
