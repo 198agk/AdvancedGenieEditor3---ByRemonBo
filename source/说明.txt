@@ -1,0 +1,9 @@
+source 文件夹说明
+=================
+AGE3源码与解析库源码.zip      AGE3（Advanced Genie Editor 3）C++ 源码，含 genieutils、pcrio（GPLv3）
+数据检索工具源码.zip          「AGE 数据检索工具」Python 源码（Tkinter + dat 解析器 + 中文对照表）
+
+本汉化包依据 GPLv3 发布，上面两个压缩包即对应的完整源码（可在 Windows 上直接解压查看）。
+原程序作者：Mikko Tapio Partonen (Tapsa) 等，许可证全文见仓库根目录 LICENSE。
+
+By RemonBo

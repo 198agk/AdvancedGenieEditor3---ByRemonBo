@@ -1,0 +1,3956 @@
+﻿English	中文	占位字节
+
+ Unit/Tech Groups *	单位科技组	21
+
+Borders: 	
+边界: 	11
+
+differs from civ 	
+与文明 不同 	19
+
+Loaded game version: 	
+已加载游戏版本：	23
+
+Terrain game version: 	
+地形游戏版本：	24
+
+Type 	类型	7
+
+Virtual size: 0x%x
+Raw Size: 0x%x
+	
+虚拟大小：0x%x
+原始大小：0x%x
+	36
+      Drive letter:	盘符：	20
+      Genie version:	Genie版本：	21
+      Recent paths:	最近路径：	20
+      Terrains: 	地形：	17
+  Class * 	类别 *	11
+ - ButtonID: 	 - 按钮ID: 	14
+ - Class 	 - 类别 	10
+ - Elevation (useless)	 - 高度（无用）	23
+ - HotkeyID: 	 - 热键ID: 	14
+ - ResearchTime: 	 - 研究时间：	18
+ - TrainTime: 	 - 训练时间: 	15
+ - Value: 	 - 数值: 	11
+ [ ] = Disable, [X] = Enable	 [ ]=禁用, [X]=启用	29
+ [ ] = Set, [X] = +/-	 [ ]=设置, [X]=增减	22
+ [>=0] = Multiply with	 [>=0]=与之相乘	23
+ [in thread %lx]	 [线程 %lx]	17
+ __vfptr	虚表	9
+ Accessibility and Damage Multiplier *	可达伤害倍率 *	39
+ Accuracy Percent	精度%	18
+ Action Type	 动作类型	13
+ Age Number	时代	12
+ AI Unitline	AI单位线	13
+ Amount	数量	8
+ Angle *	角度 *	9
+ Angle Count *	角度数	15
+ Angle Sounds Used	角度音效启用	19
+ Anim Duration *	动画时长	17
+ Anim Frames *	动画帧	15
+ Animate Last *	末帧动画	16
+ Animations	动画	12
+ Annex Units	附属单元	13
+ Annex Units Misplacement	附属单位错位	26
+ Any Frame Change	帧变化	18
+ Apply Mode *	应模 *	14
+ Area Effects *	区域效果	16
+ Attack Dispersion *	攻击散布 *	21
+ Attack Graphic	 攻击图像	16
+ Attack Graphic 2	攻击图2	18
+ Attack Priority *	攻击优先	19
+ Attack Reaction *	攻击反应	19
+ Attack Sound	攻击音效	14
+ Attribute Mode *	属性模式	18
+ Auto Search *	自搜 *	15
+ Backstab Bonus	背刺加成	16
+ Base Armor *	基础护甲 *	14
+ Base Elevation	基础高度	16
+ Base ID	基准 ID	9
+ Base Land # *	陆地#	15
+ Base Size	基尺寸	11
+ Base Terrain	 基础地形	14
+ Base Terrain *	基础地形	16
+ Base X	基准X	8
+ Base Y	基准Y	8
+ bit (Supported sample sizes are 8/16/24/32 bit)	 位（支持的样本大小为 8/16/24/32 位）	49
+ bits) and sample container size (	 位）与采样容器大小（	35
+ Blast Attack Level *	爆攻等级 *	22
+ Blast Damage *	爆炸伤害	16
+ Blast Defense *	爆炸防御	17
+ Blast Width *	爆炸宽	15
+ Blend Class	混合类别	13
+ Blend Level	混合级	13
+ Block End Col	结束列	15
+ Block End Row	结束行	15
+ Block Start Col	起始列	17
+ Block Start Row	起始行	17
+ Blockage Class *	 阻挡类别 *	18
+ Blood Unit	血单位	12
+ Bonus Damage Resist *	加成抗性 *	23
+ Border NE *	东北界	13
+ Border NW *	西北界	13
+ Border SE *	东南界	13
+ Border Style *	边界样式	16
+ Border SW *	西南界	13
+ Border Usage % *	使用%%	18
+ Borders Used *	已用边界	16
+ Bounding Box Coordinates (X1, Y1, X2, Y2)	包围盒坐标(X1..Y2)	43
+ Break off Combat	脱离战斗	18
+ Building Levels	建筑等级	17
+ Building Number	建筑号	17
+ but running with 	 但运行的是 	19
+ Button Icon *	 按钮图标 *	15
+ Button ID	按钮 ID	11
+ by 	 加 	5
+ Cache Time	缓存时	12
+ Can Burn	可烧	10
+ Carrying Graphic *	携带图像 *	20
+ Centralize *	居中 *	14
+ Charge Event *	蓄力事件	16
+ Charge Projectile Unit *	 装填投射物单位 *	26
+ Charge Target *	蓄力目标	17
+ Charge Type *	 充能类型 *	15
+ Civilization	文明	14
+ Class	类别	7
+ class 	 类别 	8
+ Clearance Size XY	通行XY	19
+ Clump Count *	聚数 *	15
+ Clumpiness Factor	聚集系数	19
+ Collision Size XYZ *	碰撞XYZ	22
+ Combat Level *	战斗等级	16
+ Command Type *	 命令类型 *	16
+ Construction Graphic	建造图像	22
+ Construction Sound	建造音效	20
+ Conv Chance *	招率 *	15
+ Convert Terrain *	转换地形	19
+ Copy ID	副本 ID	9
+ cost type 	 价格类型 	12
+ Creatable Type *	 可造类型 *	18
+ Current Col	当前列	13
+ Current Row	当前行	13
+ Damage Percent	伤害比例	16
+ Damage Sound	受伤音效	14
+ dat edits.	 dat 修改	12
+ Dead Unit	尸体单位	11
+ Default Task *	默认任务	16
+ Defaults: 	默认值：	12
+ description to 	 描述改为 	17
+ Destruction Graphic	 摧毁图像	21
+ Destruction Rubble Graphic	 摧毁废墟图像	28
+ Display Angle *	 显示角度 *	17
+ Displayed Attack	显示攻击数值	18
+ Displayed Melee Armor	近战护甲	23
+ Displayed Pierce Armor	远程护甲	24
+ Displayed Range	显示射程	17
+ Displayed Reload Time	显示装填时间	23
+ Dmg Reflection *	伤害反射	18
+ Doppelganger *	分身 *	16
+ Draw Frame *	 绘制帧数 *	14
+ Draw Terrain	 绘制地形	14
+ Drawn	绘制	7
+ Dying and Undead Graphics	 死亡与不死图形	27
+ Dying Sound	死亡音效	13
+ Editor Flag *	编标 *	15
+ Editor Select Color	编辑选色	21
+ Effect	效果	8
+ Effect Name	效果名称	13
+ Elevation Height	高度	18
+ Elevations Pointer *	高度指针 *	22
+ Enable Targeting *	启用选目 *	20
+ Enabled	启用	9
+ Enabling Tech *	启用科技	17
+ Enter Tile Graphic	 进入格图像	20
+ Exists	存在	8
+ Exit Tile Graphic	 离开格图像	19
+ File Civilization	 文件文明	19
+ File DRS Resource	DRS资源	19
+ File Icon Set	文件图标	15
+ File Probability	文件概率	18
+ Filename	文件名	10
+ files...	 文件...	10
+ First Frame	首帧	13
+ Flank Bonus	侧加成	13
+ Fluctuation *	浮动 *	15
+ Fog Flag	雾标	10
+ Fog Visibility *	雾可见性	18
+ for class 	 用于类别 	12
+ for this sprite.
+	 用于此精灵。
+	19
+ for unit 	 用于单位 	11
+ Forced Player Color *	强制色 *	23
+ Foundation Terrain *	地基地形 *	22
+ Frame *	帧数 *	9
+ Frame Changed *	帧已改 *	17
+ Frame Count	帧数	13
+ Frame Delay	帧延迟	13
+ Frame Delay *	帧延迟	15
+ Frame Index	帧索引	13
+ Frames per Angle	角帧数	18
+ Friendly Fire Damage *	友军伤害 *	24
+ from 	 来自 	7
+ Full Tech Mode	全科技	16
+ Garr. Repair Rate	驻修速率	19
+ Garrison Capacity	驻扎容量	19
+ Garrison Firepower *	驻扎火力 *	22
+ Garrison Graphic	驻扎图像	18
+ Garrison Heal Rate *	驻疗速率 *	22
+ Garrison Type *	 可驻类型 *	17
+ Gather Group *	采集组	16
+ Gather Type *	 采集类型 *	15
+ Graphic	图像	9
+ Graphic Displacement XYZ *	图像位移XYZ	28
+ Graphic set: 	图形集：	15
+ Group Mode *	组模 *	14
+ Group Radius *	组半径	16
+ Groups per Player	组数	19
+ Head Unit *	 头目单位 *	13
+ Help Converter *	帮助转换	18
+ Hero Glow Graphic	英雄光辉图像	19
+ Hide in Editor	编隐藏	16
+ Hill Mode *	丘模式	13
+ Hit Mode *	击模	12
+ Hit Points *	生命值	14
+ Hotkey *	热键	10
+ Hotkey Action *	热键动作	17
+ Hotkey ID	热键 ID	11
+ Hotkey Text Converter *	热键转换 *	25
+ hotkey to 	 热键为 	12
+ Icon	图标	6
+ Icon *	图标 *	8
+ Icon Set *	图标	12
+ icon to 	 图标为 	10
+ Idle Attack Graphic	待机攻击图像	21
+ Impassable Terrain	不可通行地形	20
+ Info *	信息 *	8
+ Info B	信息B	8
+ Info C	信息C	8
+ Initiates Technology *	发起科技 *	24
+ Interaction Mode *	交互模式 *	20
+ Interface Kind *	界面类型	18
+ Internal Name	内部名称	15
+ Internal Name 2	名称2	17
+ Interrupt Frame *	 中断帧数 *	19
+ Interval *	间隔	12
+ Invulnerability Level *	无敌等级 *	25
+ Is Animated	有动画	13
+ Is Loaded *	已装载	13
+ Land Cover % *	覆盖%%	16
+ Land ID	陆地 ID	9
+ Land Proportion	陆地比例	17
+ Land Spacing *	陆地间距	16
+ Lands Pointer *	陆地指针	17
+ Lang File Hotkey Text *	语言热键 *	25
+ Lang File Tech Tree *	语言科技树 *	23
+ Language File Creation	语言创建	24
+ Language File Description	语言文件描述	27
+ Language File Help *	语言帮 *	22
+ Language File Name *	语言名 *	22
+ Language: * 	语言 *	14
+ Layer *	图层 *	9
+ Line Mode *	线模式	13
+ Line of Sight *	视野 *	17
+ Location *	位置	12
+ Location in Age *	时代位置	19
+ Long Tooltip *	长提示	16
+ Looting Table *	战利品表	17
+ Map Height	图高度	12
+ Map Max X	图X顶	11
+ Map Max X + 1	图X顶1	15
+ Map Max Y	图Y顶	11
+ Map Max Y + 1	图Y顶1	15
+ Map Min X	图X底	11
+ Map Min Y	图Y底	11
+ Map Pointer	图指针	13
+ Map Row Offset	行偏移	16
+ Map Visible Flag	可见标志	18
+ Map Width	图宽度	11
+ Masked	掩码	8
+ Max Age Length	最长时代	16
+ Max Charge	蓄力	12
+ Max Conv Time *	大招时间	17
+ Max Dist to Players *	距玩家最大 *	23
+ Max Range	大射程	11
+ Max Terrain	 最大地形	13
+ Max Total Projectiles *	 最大投射物总数 *	25
+ Max YPS Moving	动最大速	16
+ Max YPS Stationary	静止最大速	20
+ Min Conv Time *	小招时间	17
+ Min CS Multiplier *	最小CS倍	21
+ Min Dist to Players	距玩家最小	21
+ Min Range	小射程	11
+ Min Req Techs	最低科技	15
+ Min Tech Level	最低时代	16
+ Minimap Cliff Colors	崖颜色	22
+ Minimap Color *	地图色 *	17
+ Minimap Color 2 *	地图色2	19
+ Minimap Color 3 *	地图色3	19
+ Minimap Colors	地图色	16
+ Minimap Mode *	地图模式	16
+ Mirroring Mode *	镜像模式	18
+ Miscellaneous useless terrain data	杂项无用地形数据	36
+ Move Algorithm	移动算法	16
+ Move Sound	移动音效	12
+ Moving Graphic *	移动图像	18
+ name to 	 名称为 	10
+ None: 	 无： 	8
+ Obstruction Type *	 阻挡类型 *	20
+ Occlusion Mode *	遮挡模式	18
+ Offset X *	X偏移	12
+ Offset Y *	Y偏移	12
+ Old Color Flag *	旧色标志	18
+ Outline Color *	轮廓颜色	17
+ Overlay *	覆盖	11
+ Overlay Mask Name	遮罩名	19
+ Padding 1 *	填充1	13
+ Padding 2 *	填充2	13
+ Particle Effect Name	粒子效果名	22
+ Passable Terrain	可通行地形	18
+ Pause Fames *	暂停帧	15
+ Phantom Var	幻变量	13
+ Pile Unit *	 堆叠单位 *	13
+ Placement Side Terrains *	放置侧地形 *	27
+ Placement Terrain	 可放置地形	19
+ Placement Terrains	 可放置地形	20
+ Placement Type *	 可放置类型 *	18
+ Play Delay	播放延	12
+ Player # *	玩家#	12
+ Player Base Size *	基地尺寸 *	20
+ Player Color Base *	玩家色基 *	21
+ Player Placement *	玩家放置 *	20
+ Player Type *	 玩家类型 *	15
+ Portrait *	头像	12
+ Proceeding Graphic *	进行图像 *	22
+ Productivity Resource *	生产资源 *	25
+ Projectile Arc	投射弧	16
+ Projectile Spawning Area *	投射生成区 *	28
+ Projectile Type *	 投射物类型 *	19
+ Projectile Unit	投射物单位	17
+ Proportion *	比例 *	14
+ Random	随机	8
+ Random Maps Pointer *	随机图指针 *	23
+ Razing Kill Rate	毁击杀率	18
+ Razing Kill Total	毁杀总数	19
+ Recharge Rate	充能速率	15
+ Reload Time	装填时间	13
+ Repeatable	可重复	12
+ Replay Delay *	回放延迟	16
+ Required Tech *	需求科技	17
+ Required Techs	需求科技	16
+ research button to 	 研究按钮改为 	21
+ Research Completed Graphic	研究完成图像	28
+ research location to 	 研究点改为 	23
+ research time by 	 研究时间乘以 	19
+ research time to 	 研究时间改为 	19
+ Researching Graphic	研究中图像	21
+ ResearchTime Time	研究时间	19
+ Resource Capacity	资源容量	19
+ Resource Decay *	资源衰减	18
+ Resource Deposit Sound *	卸货音效 *	26
+ Resource Gathering Sound *	采集音效 *	28
+ Resource In *	资源入	15
+ Resource Out *	资源出	16
+ Resource Value	资源值	16
+ Rotation Factors *	旋转系数 *	20
+ Rotation Speed *	旋转速度	18
+ Run Pattern *	跑模 *	15
+ Scale by Map Size	尺寸缩放	19
+ Script Number	脚本号	15
+ Search Map Ptr	图指针	16
+ Search Map Rows	图行	17
+ Search Radius	搜索半径	15
+ Search Wait Time *	搜索等待 *	20
+ Secondary Projectile Unit *	 副投射物单位 *	29
+ Select Color 1 *	选色1 *	18
+ Select Color 2 *	选色2 *	18
+ Selection Effect *	选择效果 *	20
+ Selection Outline Size XYZ *	轮廓尺寸XYZ *	30
+ Selection Sound	选中音效	17
+ Sequence Type *	 序列类型 *	17
+ Shape Pointer *	形状指针	17
+ Short Tooltip *	短提示 *	17
+ Size Class	体型类别	12
+ Smart Mode *	智模 *	14
+ Snow Graphic	雪地图像	14
+ Sort Number *	排序号	15
+ Sound	音效	7
+ Sound ID	音效 ID	10
+ Sound Stop Event	停声事件	18
+ Source 	源	9
+ Source SLP 1	 来源SLP 1	14
+ Source SLP 2	 来源SLP 2	14
+ Spawning Graphic	生产图像	18
+ Special Ability *	特殊能力	19
+ Special Graphic *	特殊图像	19
+ Speed	速度	7
+ Sprite	精灵	8
+ Sprite Name	精灵名	13
+ Sprite Pointer *	精灵指针	18
+ Stack Unit *	 堆叠单位 *	14
+ stacking	 堆叠	10
+ stacking cap to 	 堆叠上限改为 	18
+ Standing Graphics *	站立图像 *	21
+ Statistics Text	统计文本	17
+ Status *	状态	10
+ String ID	字符串 ID	11
+ Target 	目标	9
+ Target Diplomacy *	目标外交 *	20
+ Target SLP	 目标SLP	12
+ Task Swap Group *	任务换组	19
+ Task Type	任务类型	11
+ Team Bonus	队加成	12
+ Tech Number	科技号	13
+ Tech Tree	 科技树	11
+ Tech Tree Converter *	科技树转换 *	23
+ Technology Tree	科技树	17
+ Terrain	地形	9
+ Terrain Defense Bonus *	地形防御 *	25
+ Terrain Dimensions	地形尺寸	20
+ Terrain Edge Fade *	边缘淡化 *	21
+ Terrain Spacing *	地形间距	19
+ Terrain Table *	地形表 *	17
+ Terrain to Draw	绘制地形	17
+ Terrain Unit	地形单位	14
+ Terrain Units Used	地形使用的单位	20
+ Terrains Pointer *	地形指针 *	20
+ Terrains Used *	已用地形	17
+ Texture Filename	 纹理文件名	18
+ Tile Graphics: flat, 2 x 8 elevation, 2 x 1:1
+ Frame Count, Animations, Frame Index	地块图形：平铺、2×8 高程、2×1:1
+ 帧数、动画、帧索引	85
+ Tile Half Height	块半高	18
+ Tile Half Width	块半宽	17
+ Tile Height	块高度	13
+ Tile Sizes   19 x (Width, Height, Delta Y)   1st is flat tile, then 2 x 8 elevation tiles, then 2 1:1 tiles	地块尺寸19x宽高ΔY平块8高度块1:1块	109
+ Tile Sizes Padding	尺寸填充	20
+ Tile Spacing	块间距	14
+ Tile Width	块宽度	12
+ time by 	 时间加 	10
+ Time Slice	时间片	12
+ time to 	 时间至 	10
+ times	 次	7
+ times resource 	 乘以资源 	17
+ to 	 到 	5
+ to selected civilizations: 	到所选文明：	29
+ Total Probability	总概率	19
+ Total Projectiles *	投射物总数 *	21
+ Tracking ID	追踪 ID	13
+ Trail Density *	尾迹密度	17
+ Trail Mode *	尾模 *	14
+ Trailing Unit	牵引单位	15
+ Train Sound	训练音效	13
+ Train Time	训时间	12
+ Trait Piece *	特性件 *	15
+ Transform Sound *	变身音效	19
+ Transform Unit *	 变身单位 *	18
+ Transparent Pick *	透明拾取 *	20
+ Turn Radius	转半径	13
+ Turn Radius Speed	 转身速度	19
+ Type *	类型 *	8
+ Underlay Terrain *	底层地形 *	20
+ Unique Units / Techs	独特单位科技	22
+ Unit	单位	6
+ unit 	 单位 	7
+ Unit *	单位 *	8
+ Unit Density	单位密度	14
+ Unit Hit Point Rate	生命率	21
+ Unit Hit Point Total	生命总数	22
+ Unit Kill Rate	击杀率	16
+ Unit Kill Total	毁杀总数	17
+ Unit Number	单位号	13
+ Unit Speed Multiplier *	速度倍率 *	25
+ Unit Trait *	单位特性 *	14
+ Unitline ID	单位线 ID	13
+ Unitline Name	单位线名	15
+ Units per Group	组单位数	17
+ Units Pointer *	单位指针	17
+ Unkown 2 *	未知2	12
+ Unkown 3 *	未知3	12
+ Unkown 4 *	未知4	12
+ Unkown 5 *	未知5	12
+ Unkown 7 *	未知7	12
+ Unkown 8 *	未知8	12
+ unsaved changes.	 有未保存的更改。	18
+ Unused ID	未用 ID	11
+ Unused Resource	未用资源	17
+ Upgrade Graphic	 升级图像	17
+ Upper Building	上层建筑	16
+ Used 0/100	用量0	12
+ Used Ages/Units/Techs	已用时代单位	23
+ Vanish Mode *	消模 *	15
+ Variable Converter *	变量转换 *	22
+ Vertical Line #	垂直线#	17
+ Walk Graphic Rate	行图速率	19
+ Walk Tile Graphic	 行走格图像	19
+ Walking and Running Graphics	 步行与奔跑图形	30
+ Water Shape *	水形 *	15
+ window 	 窗口 	9
+ Work Flag 2 *	工作标2	15
+ Work Range	工作域	12
+ Work Rate	工作率	11
+ Work Value 1 *	数值1	16
+ Work Value 2 *	数值2	16
+ Working Graphic *	工作图像	19
+ World Height	世界高	14
+ World Width	世界宽	13
+ Yaw Round Time	偏航时间	16
+ Yes	是	5
+ Zone	区域	6
+" (cannot generate the headers)	" （无法生成头信息）	32
+" (couldn't open stream)	（无法打开流）	25
+" (failed to allocate encoder)	" （无法分配编码器）	31
+" (failed to open the file)	" （无法打开该文件）	28
+" (format not supported)	（不支持该格式）	25
+" to 	" 到 	6
+"Assert failure"	"断言失败"	17
+#10 Envelope, 4 1/8 x 9 1/2 in	#10 信封，4 1/8 x 9 1/2 in	31
+#11 Envelope, 4 1/2 x 10 3/8 in	#11 信封, 4 1/2 x 10 3/8 in	32
+#12 Envelope, 4 3/4 x 11 in	#12 信封，4 3/4 x 11 in	28
+#14 Envelope, 5 x 11 1/2 in	#14 信封，5 x 11 1/2 in	28
+#9 Envelope, 3 7/8 x 8 7/8 in	#9 信封，3 7/8 x 8 7/8 in	30
+% Map Explored	地图探索%	15
+% of the total map area	占地图总面积%	24
+&About	&关于	7
+&About...	&关于...	10
+&Actual Size	&实际大小	13
+&Apply	&应用	7
+&Back	&后退	6
+&Bold	&加粗	6
+&Bottom	&底部	8
+&Cancel	&取消	8
+&CD-ROM	&光盘	8
+&Clear	&清除	7
+&Close	&关闭	7
+&Convert	&转换	9
+&Copy	&复制	6
+&Copy URL	&复制URL	10
+&Delete	&删除	8
+&Down	&下移	6
+&Edit	&编辑	6
+&Execute	&执行	9
+&File	&文件	6
+&Find...	查找(&F)	9
+&Help	&帮助	6
+&Hide details	隐藏详情(&H)	14
+&Jump to	&跳至	9
+&Last	&末项	6
+&Network	&网络	9
+&New	&新	5
+&Open...	&打开...	9
+&Options	&选项	9
+&Paste	&粘贴	7
+&Preferences	&首选项	13
+&Print...	&打印...	10
+&Prompt for files on open	打开时&提示选文件	26
+&Properties	&属性	12
+&Quit	&退出	6
+&Redo	&重做	6
+&Save	&保存	6
+&See details	查看详情(&S)	13
+&Spell Check	拼写检查(&S)	13
+&Stay on top	&置顶	13
+&Tips	&提示	6
+&Underline	&下划线	11
+&Undo	&撤销	6
+&Unindent	&取消缩进	10
+&Yes	&是	5
+, 64-bit edition	，64 位版	17
+, all	, 全	6
+, all including own master	, 全部含自身主体	27
+, CT	，CT	5
+, Delays: 	, 延迟: 	11
+, on map	, 图上	9
+, Preserve Actions 	, 保留动作 	20
+, Retain Local Tech Upgrades 	, 保留本地科技升级 	30
+, selected	, 已选中	11
+-1 - Any	-1-任意	9
+-1 - None	-1 - 无	10
+-1 - Set Time	-1 - 设置时间	14
+-1 for every player	每位玩家-1	20
+-1 Instantly dying unit	-1 立即死亡单位	24
+-1 None 	-1 无 	9
+-2 - Add Time	-2 - 增加时间	14
+0   Continue after hitting an obstacle
+1   Disappear once an obstacle is hit
+2   Hit all. Damages target and resting position?	0   撞到障碍物后继续
+1   撞到障碍物后消失
+2   全部命中。伤害目标和停留位置？	127
+0   Default
+1   Adjacent buildings can change graphics of this unit
+This changes the graphic angle	0   默认
+1   相邻建筑可改变此单位的图像
+这会改变图像角度	99
+0   Default
+1   Graphic stays at highest elevation until destination is reached
+2+ Graphic is not affected by elevation	0   默认
+1   图像保持最高高度，直到抵达目的地
+2+ 图像不受高度影响	120
+0   Escape straight
+1   Escape randomly	0   直线逃跑
+1   随机逃跑	40
+0   Forces default obstruction type
+1   Resource
+2   Unit
+3   Building
+4   Wall
+5   Gate, allows trespassing
+6   Cliff, blocks walling	0   强制默认阻挡类型
+1   资源
+2   单位
+3   建筑
+4   城墙
+5   门，允许穿行
+6   悬崖，阻止围堵	135
+0   Has hit point bar
+1   Has hit point bar and outline
+2   No hit point bar or outline
+3   No hit point bar, but has outline	0   有血条
+1   有血条和轮廓
+2   无血条和轮廓
+3   无血条，但有轮廓	126
+0   Hidden
+1   First
+2   Second	0   隐藏
+1   第一
+2   第二	32
+0   Never select
+1   Select only on pixels
+2   Select in box	0   不可选中
+1   仅按像素选中
+2   框选	61
+0   No restriction
+1   Cannot place on corners of hills
+2   Can only place on flat land
+3   Allows one elevation difference	0   无限制
+1   不能放在山丘的转角上
+2   只能放置在平地上
+3   允许一个高度差	124
+0   None
+1   Run
+2   Run work
+3   Fight
+4   Fight work
+5   Fight run
+6   Fight run work
+	0   无
+1   循
+2   循工作
+3   战斗
+4   战斗工作
+5   战斗循
+6   战斗循工作
+	89
+0   None
+1   Villager
+2   Infantry
+3   Cavalry
+4   Relic
+5   Archer
+6   Monk
+	0   无
+1   村民
+2   步兵
+3   骑兵
+4   圣物
+5   弓兵
+6   僧侣
+	78
+0   None
+1   Water
+2   Deep water
+4   Shallow water
+8   Walkable shallow
+16   Beach
+32   Land
+64   Ice
+128   Snow	0   无
+1   水域
+2   深水
+4   浅水
+8   可行走浅滩
+16   沙滩
+32   陆地
+64   冰
+128   雪地	114
+0   None
+These work only when facing the hit angle.
+1   Block
+    Activates special graphic when receiving damage and
+    not pursuing the attacker.
+    While idle, blocking decreases damage taken by 1/3.
+2   Counter Charge
+    Activates special graphic when idle and enemy is near.
+    While idle, attacks back once on first received hit.
+    Enemy must be unit type 70 and have less than 0.2 max range.
+3   Charge
+    Activates special graphic when closer than two tiles to the target.
+    Deals 2X damage on 1st hit.
+Planned but never implemented ship special attacks:
+Read the design document of Age of Empires II.
+These were supposed to be mutually exclusive technologies.
+4   Ram
+    Charge against another ship, losing some hit points yourself.
+5   Greek Fire
+    Fry units on ships passing through your sea of fire.
+6   Board
+    Attach to another ship, resulting in takeover or sinking.	0   无
+只在面对受击角度时生效。
+1   格挡
+    受到伤害且未追击攻击者时
+    激活特殊图像。
+    待机时格挡使受伤减少1/3。
+2   反击冲锋
+    待机且敌人靠近时激活特殊图像。
+    待机时首次受击反击一次。
+    敌人必须为单位类型70且最大射程小于0.2。
+3   冲锋
+    距目标两格内时激活特殊图像。
+    第1次命中造成2X伤害。
+计划但从未实现的船只特殊攻击：
+参见《帝国时代 II》设计文档。
+这些本应是互斥科技。
+4   攻城槌
+    冲向另一艘船，自身损失部分生命值。
+5   希腊火
+    烧死穿过你火海的船上的单位。
+6   接舷
+    贴附另一艘船，结果是被接管或沉没。	896
+0   Normal
+1   Random (bullets)
+2   Random explosions	0   正常
+1   随机（子弹）
+2   随机爆炸	54
+0   Not by player
+1   By player, overlap
+2   By player, seperate	0   非玩家放置
+1   玩家放置，可重叠
+2   玩家放置，分开	65
+0   Not used
+1   Appears while moving and at the start of the game
+2   Appears while moving, based on density	0   不用
+1   移动时和游戏开始时出现
+2   移动时按密度出现	110
+0   Not visible
+1   Always visible
+2   Visible if alive
+3   Inverted visibility
+4   Check doppelganger	0   不可见
+1   始终可见
+2   存活时可见
+3   反向可见
+4   检查分身	103
+0   Nothing
+1   None
+2   Available to player
+3   Not available to player
+4   Researching or constructing or creating
+5   Technology researched or building built
+6   End	0   无
+1   无
+2   玩家可用
+3   玩家不可用
+4   研究中或建造中或训练中
+5   科技已研究或建筑已建成
+6   结束	169
+0   Overlay (flames on buildings)
+1   Overlay randomly
+2   Replace graphics (damaged walls)	0   覆盖（建筑上的火焰）
+1   随机覆盖
+2   替换图像（受损的城墙）	92
+0   Place randomly on the tile
+1   Place in middle of the tile	0   在地块上随机放置
+1   放在地块中央	63
+0   Requires a technology to be available
+1   Available without a technology	0   需要一项科技才可用
+1   无需科技即可用	77
+0   Research: First age
+1   Age
+2   Unit: First in vertical line
+3   Unit: Not first
+4   Research
+5   Building: One or more connections
+6   Building: No connections	0   研究：首个时代
+1   时代
+2   单位：垂直线中首个
+3   单位：非首个
+4   研究
+5   建筑：有一个或多个连接
+6   建筑：无连接	165
+0   Single unit
+1   Place group
+2   Place cluster	0   单个单位
+1   放置成组
+2   放置聚簇	50
+0   Straight
+1   Homing?, projectile falls vertically to the bottom of the map
+2   Velocity homing?
+3   Teleporting projectile	0   直线
+1   追踪？投射物垂直落到地图底部
+2   速度追踪？
+3   传送式投射物	127
+0   Transform
+1   Transform player color
+2   Shadow
+3   Translucent	0   转换
+1   转换玩家颜色
+2   阴影
+3   半透明	68
+0 - Archer	0 - 弓兵	11
+0 - Attribute Modifier (Set)	0 - 属性修正（设置）	29
+0 - Hit Points	0 - 生命值	15
+0 - Set Food Cost	0 - 设定食物价格	18
+0 - Unused	0 - 未用	11
+0 Disable
+1 Enable
+2 Force enable	0 禁用
+1 启用
+2 强制启用	34
+0 Unused	0 未用	9
+0 West Middle Easterns	0 西亚中东	23
+0+  Place on all matching lands
+-1   Place anywhere
+-2   Avoid land spots	0+  放在所有匹配的陆地上
+-1   放在任意位置
+-2   避开陆地位置	74
+0, 1   Square outline, and passable
+2   Solid square outline, and has collision box
+3   Square outline, and has collision box
+4   Is passable, but has no outline
+5   Round outline, and has collision box
+10   Like 2, designed for mountains	0, 1   方形轮廓且可通行
+2   实心方形轮廓且有碰撞盒
+3   方形轮廓且有碰撞盒
+4   可通行，但无轮廓
+5   圆形轮廓且有碰撞盒
+10   同2，为山地设计	239
+0-3 and 16384-16387 only work if the tech has the corresponding cost/storage set	0-3 和 16384-16387 仅在科技设置了对应价格/存储时有效	81
+0: None	0: 无	8
+1   Attack
+2   Hit Points	1   攻击力
+2   生命值	26
+1   Choose this task if targeting a construction	1   目标为建筑时选此任务	49
+1   Deduct 1 from the charge when attack animation completes	1   攻击动画结束时蓄力减1	61
+1 - Artifact	1 - 神器	13
+1 - Line of Sight	1 - 视野	18
+1 - Nerf/Bantha	1 - 斑萨	16
+1 - Resource Modifier (Set/+/-)	1 - 资源修正（设置/+/-）	32
+1 - Set Wood Cost	1 - 设定木材价格	18
+1 Central Europeans	1 中欧	20
+1 Galactic Empire	1 银河帝国	18
+1 Greeks	1 希腊	9
+1 on more or less living things	1个左右生物	32
+10 - Attack Reload Time (types 50-80)	10 - 攻击装填时间（类型 50-80）	38
+10 - Eye Candy	10 - 装饰物	15
+10 - Predator Animal	10 - 掠食动物	21
+10 - Set Stacking Research Cap	10 - 设置堆叠研究上限	31
+10 - Team Attribute Modifier (Set)	10 - 我方属性修正（设置）	35
+10 - Turret	10 - 炮塔	12
+10 South East Asians	10 东南亚	21
+100 - Resource Costs (types 70-80)	100 - 资源价格（类型 70-80）	35
+10000 + Language File Creation (usually)	10000 + 语言文件创建 (通常)	41
+100000 + Language File Name	100000 + 语言文件名	28
+100000 + Language File Name
+This is linked to the help text below	100000 + 语言文件名
+与下方的帮助文本关联	66
+101 - Population (set only)	101 - 人口（仅设置）	28
+101 - Tech Cost Modifier (Set/+/-)	101 - 科技价格修改(设定/+/-)	35
+101 - Train Time (types 70-80)	101 - 训练时间（类型 70-80）	31
+101 and 103 are only for
+tech tree and team bonus
+101-103 only work at start of a game
+7-39 are only available with UserPatch 1.5
+10-16 are also available with AoK HD	101和103仅用于
+科技树和团队加成
+101-103仅在游戏开始时生效
+7-39仅在 UserPatch 1.5 中可用
+10-16在 AoK HD 中也可用	167
+101: Build	101: 建造	11
+102 - Disable Tech	102 - 禁用科技	19
+102 - Total Missiles (types 70-80)	102 - 投射物总数（类型 70-80）	35
+102: Make a Unit	102: 造单位	17
+103 - Food Costs (types 70-80)	103 - 食物价格（类型70-80）	31
+103 - Tech Time Modifier (Set/+/-)	103 - 科技时间修改(设定/+/-)	35
+103: Make a Tech	103: 造科技	17
+104 - Carbon Costs (types 70-80)	104 - 碳价格（类型 70-80）	33
+104 - Wood Costs (types 70-80)	104 - 木材价格（类型70-80）	31
+104: Convert	104: 转换	13
+105 - Gold Costs (types 70-80)	105 - 金币价格（类型70-80）	31
+105 - Nova Costs (types 70-80)	105 - 诺瓦价格（类型70-80）	31
+105: Heal	105: 治疗	10
+106 - Ore Costs (types 70-80)	106 - 矿石价格（类型70-80）	30
+106 - Stone Costs (types 70-80)	106 - 石料价格（类型 70-80）	32
+106: Repair	106: 修理	12
+107 - Max Total Missiles (types 70-80)	107 - 最大投射物总数（类型 70-80）	39
+107: Get Auto-converted	107: 自动被招降	24
+108 - Garrison Heal Rate (type 80)	108 - 驻疗速率（类型 80）	35
+108: Discovery Artifact	108: 探索神器	24
+109 - Regeneration Rate (types 40-80)	109 - 再生速率（类型 40-80）	38
+109: Deleted	109: 已删除	13
+10: Fly	10:飞行	8
+11 - Accuracy Percent (types 50-80)	11 - 精度%（类型 50-80）	36
+11 - Cruiser	11 - 巡洋舰	13
+11 - Miscellaneous	11 - 杂项	19
+11 - Set Hotkey	11 - 设定热键	16
+11 - Team Resource Modifier (Set/+/-)	11 - 我方资源修正（设置/+/-）	38
+11 Central Asians	11 中亚人	18
+110 - Population (types 70-80)	110 - 人口（类型70-80）	31
+110: Hunt	110: 狩猎	10
+111 - Minimum Conversion Time Modifier (types 70-80)	111 - 最短招降时间修正（类型 70-80）	53
+111: Trade	111: 贸易	11
+112 - Maximum Conversion Time Modifier (types 70-80)	112 - 最长招降时间修正（类型 70-80）	53
+113 - Conversion Chance Modifier (types 70-80)	113 - 招降概率修正（类型 70-80）	47
+114 - Formation Category (types 70-80)	114 - 阵型类别（类型 70-80）	39
+115 - Area Damage (types 50-80)	115 - 区域伤害（类型 50-80）	32
+11: Deleted (Scare/Hunt)	11：已删（惊逃/狩猎）	25
+12 - Cavalry	12 - 骑兵	13
+12 - Max Range (types 50-80)	12 - 大射程（类型50-80）	29
+12 - Set Enabled	12 - 设定启用	17
+12 - Team Enable/Disable Unit	12 - 队伍启用/禁用单位	30
+12 - Unused	12 - 未用	12
+120: Generate Wonder Victory	120：奇观胜利	29
+121: Deselect when Tasked (Farm)	121: 指派任务时取消选择（农田）	33
+122: Loot (Gather)	122: 搜刮（采集）	19
+123: Housing	123: 驻扎	13
+124: Pack	124: 打包	10
+125: Unpack & Attack	125: 卸载并攻击	21
+12: Unload (Boat-Like)	12: 卸货（船类）	23
+13 - Destroyer	13 - 驱逐舰	15
+13 - Siege Weapon	13 - 攻城武器	18
+13 - Team Upgrade Unit	13 - 盟友升级单位	23
+13 - Work Rate (types 30-80)	13 - 工作率（类型30-80）	29
+130: Deleted	130: 已删除	13
+131: Off-Map Trade	131: 场外贸易	19
+132: Pickup Unit	132: 拾取单位	17
+133: Charge Attack	133: 蓄力攻击	19
+134: Transform Unit	134: 变身单位	20
+135: Kidnap Unit	135: 绑架单位	17
+136: Deposit Unit	136: 卸货单位	18
+13: Guard	13: 守卫	10
+13: None	13: 无	9
+14 - Carry Capacity	14 - 携带容量	20
+14 - Team Attribute Modifier (+/-)	14 - 我方属性修正（+/-）	35
+14 - Terrain	14 - 地形	13
+14 - Utility Trawler	14 - 拖网渔船	21
+149: Shear	149: 剪毛	11
+14: None	14: 无	9
+14: Unload Over Wall	14: 越墙卸下	21
+15 - Base Armor (types 50-80)	15 - 基础护甲（类型50-80）	30
+15 - Frigate 1	15 - 护卫舰1	15
+15 - Team Attribute Modifier (Multiply)	15 - 我方属性修正（乘法）	40
+15 - Tree	15 - 树	10
+15 - Tree (AoK)	15 - 树木 (帝)	16
+150000 + Language File Name	150000 + 语言文件名	28
+150000 + Language File Name
+This seems to be used only in AoE (not RoR)
+This language line has other purposes in SWGB and CC	150000 + 语言文件名
+看来只在帝国时代（非罗马复兴）中使用
+此语言行在 SWGB 和 CC 中另有用途	125
+150: Deleted	150: 已删除	13
+150: Regeneration	150: 再生	18
+151: Feitoria Ability	151: 商站能力	22
+151: Generate Resources	151: 产生资源	24
+152: Movement Damage	152: 移动伤害	21
+153: Movable Drop Site	153: 可移动卸货点	23
+154: Loot	154: 拾取	10
+155: Aura	155: 光环	10
+16 - A-A Destroyer 1	16 - 防空驱逐舰1	21
+16 - Projectile Unit (types 50-80)	16 - 投射物单位（类型 50-80）	35
+16 - Team Resource Modifier (Multiply)	16 - 我方资源修正（乘法）	39
+16 - Tree Stump	16 - 树桩	16
+16384 - Add Food Cost	16384 - 加食物价格	22
+16385 - Add Wood Cost	16385 - 加木材价格	22
+16386 - Add Stone Cost	16386 - 加石头价格	23
+16387 - Add Gold Cost	16387 - 加黄金价格	22
+17 - Healer	17 - 医师	12
+17 - Icon/Graphics Angle (type 80)	17 - 图标/图像角度（类型 80）	35
+17 - Team Enable/Disable/Force Multiuse Tech	17 - 我方启用/禁用/强制多用途科技	45
+17 - Team Spawn Unit	17 - 队伍生成单位	21
+17 - Transport Ship	17 - 运输舰	20
+18 - Building	18 - 建筑	14
+18 - Monk	18 - 僧侣	10
+18 - Priest	18 - 僧侣	12
+18 - Team Modify Tech	18 - 盟友修改科技	22
+18 - Terrain Defense Bonus (always sets, types 50-80)	18 - 地形防御加成（总是设置，类型 50-80）	54
+19 - Doppelganger	19 - 复制人	18
+19 - Enable Smart Projectiles (type 60)	19 - 启用智能投射物（类型 60）	40
+19 - Team Set Player Civ Name	19 - 队伍设置玩家文明名	30
+19 - Trade Cart	19 - 贸易车	16
+19 - Unused	19 - 未用	12
+1: Move to	1: 移动到	11
+1:1 Tile A	1:1 地块A	11
+1:1 Tile B	1:1 地块B	11
+1st Tech Level	第1科技等级	15
+2 - Enable/Disable Unit	2 - 启用/禁用单位	24
+2 - Fambaa	2 - 法巴	11
+2 - Garrison Capacity	2 - 驻扎容量	22
+2 - Set Stone Cost	2 - 设置石头价格	19
+2 - Trade Boat	2 - 贸易船	15
+2 East Middle Easterns	2 东亚中东	23
+2 Gungans	2 冈根	10
+2 West Europeans	2 西欧人	17
+20 - Animated	20 - 动画	14
+20 - Enemy Attribute Modifier (Set)	20 - 敌方属性修正（设置）	36
+20 - Min Range (types 50-80)	20 - 小射程（类型50-80）	29
+20 - Other/Dead/Projectile	20 - 其它/尸体/投射物	27
+20 - Transport Boat	20 - 运输船	20
+200 - Own Master Objects Attribute Modifier (Set)	200 - 自身主单位属性修改(设定)	50
+201 - Own Master Objects Attribute Modifier (+/-)	201 - 自身主单位属性修改(+/-)	50
+202 - Own Master Objects Attribute Modifier (Multiply)	202 - 自身主单位属性修改(乘)	55
+203 - Selected Unit Attribute Modifier (Set)	203 - 所选单位属性修改(设定)	45
+204 - Selected Unit Attribute Modifier (+/-)	204 - 所选单位属性修改(+/-)	45
+205 - Selected Unit Attribute Modifier (Multiply)	205 - 所选单位属性修改(乘)	50
+206 - Transform Selected Unit	206 - 变身所选单位	30
+20: Deleted (Escape)	20: 已删除（Esc）	21
+21 - Amount of 1st resource storage	21 - 第1资源存放数量	36
+21 - Command Base	21 - 指挥基地	18
+21 - Enemy Resource Modifier (Set/+/-)	21 - 敌方资源修正（设置/+/-）	39
+21 - Fishing Boat	21 - 渔船	18
+21: Make	21: 制造	9
+22 - Blast Width (types 50-80)	22 - 爆炸宽度（类型 50-80）	31
+22 - Cliff	22 - 悬崖	11
+22 - Enemy Enable/Disable Unit	22 - 敌方启用/禁用单位	31
+22 - Warship	22 - 战舰	13
+23 - Chariot Archer	23 - 战车弓兵	20
+23 - Conquistador	23 - 征服者	18
+23 - Enemy Upgrade Unit	23 - 敌方升级单位	24
+23 - Fish	23 - 鱼	10
+23 - Search Radius (types 40-80)	23 - 搜索半径（类型 40-80）	33
+24 - Enemy Attribute Modifier (+/-)	24 - 敌方属性修正（+/-）	36
+24 - Hidden Damage Resistance (types 50-80)	24 - 隐藏伤害抗性（类型 50-80）	44
+24 - Unused	24 - 未用	12
+24 - War Elephant	24 - 战象	18
+25 - Doppelganger	25 - 分身	18
+25 - Enemy Attribute Modifier (Multiply)	25 - 敌方属性修正（乘法）	41
+25 - Hero	25 - 英雄	10
+25 - Icon	25 - 图标	10
+25 - Shore Fish	25 - 岸鱼	16
+26 - Amount of 2nd resource storage	26 - 第2资源存放数量	36
+26 - Elephant Archer	26 - 战象弓兵	21
+26 - Enemy Resource Modifier (Multiply)	26 - 敌方资源修正（乘法）	40
+26 - Game Engine Stuff	26 - 游戏引擎	23
+27 - Amount of 3rd resource storage	27 - 第3资源存放数量	36
+27 - Enemy Enable/Disable/Force Multiuse Tech	27 - 敌方启用/禁用/强制多用途科技	46
+27 - Enemy Spawn Unit	27 - 敌方生产单位	22
+27 - Fruit Bush	27 - 浆果丛	16
+27 - Wall	27 - 城墙	10
+28 - Enemy Modify Tech	28 - 敌方修改科技	23
+28 - Fog Visibility	28 - 雾可见性	20
+28 - Holocron	28 - 全息仪	14
+28 - Phalanx	28 - 方阵	13
+29 - Domestic Animal	29 - 家畜	21
+29 - Enemy Set Player Civ Name	29 - 敌方设置玩家文明名	31
+29 - Nova	29 - 诺瓦	10
+29 - Occlusion Mode	29 - 遮挡模式	20
+2: Follow	2: 跟随	10
+2: None	2: 无	8
+2nd Tech Level	第2科技等级	15
+3 - Building	3 - 建筑	13
+3 - Set Gold Cost	3 - 设定黄金价格	18
+3 - Unit Size X	3 - 单位尺寸X	16
+3 - Unused	3 - 未用	11
+3 - Upgrade Unit	3 - 升级单位	17
+3 Asians	3 亚洲	9
+3 East Asians	3 东亚	14
+3 Rebels	3 叛军	9
+3.2 (wchar_t,Visual C++ 1900,wx containers,compatible with 3.0)	3.2 (wchar_t,VC++ 1900,wx容器,兼容3.0)	64
+30 - Flag	30 - 旗帜	10
+30 - Garrison Type (type 80)	30 - 可驻类型（类型80）	29
+30 - Moving	30 - 移动	12
+30 - Neutral Attribute Modifier (Set)	30 - 中立属性修正（设置）	38
+30 - Ore	30-矿脉	9
+31 - Deep Sea Fish	31 - 深海鱼	19
+31 - Neutral Resource Modifier (Set/+/-)	31 - 中立资源修正（设置/+/-）	41
+31 - Tree/Carbon	31 - 树木/碳	17
+31 - Unknown	31 - 未知	13
+32 - Artillery	32 - 火炮	15
+32 - Gold Mine	32 - 金矿	15
+32 - Neutral Enable/Disable Unit	32 - 中立启用/禁用单位	33
+32 - Unit Size Z	32 - 单位尺寸Z	17
+33 - A-A Mobile	33 - 防空车	16
+33 - Can Be Built On	33 - 可建其上	21
+33 - Neutral Upgrade Unit	33 - 中立升级单位	26
+33 - Shore Fish	33 - 岸鱼	16
+34 - Cliff	34 - 悬崖	11
+34 - Foundation Terrain (type 80)	34 - 地基地形（类型 80）	34
+34 - Neutral Attribute Modifier (+/-)	34 - 中立属性修正（+/-）	38
+34 - Undeployed Cannon	34 - 未架设火炮	23
+35 - Chariot	35 - 战车	13
+35 - Neutral Attribute Modifier (Multiply)	35 - 中立属性修正（乘法）	43
+35 - Petard	35 - 爆破兵	12
+35 - Pummel	35 - 拍车	12
+36 - Cannon	36 - 火炮	12
+36 - Cavalry Archer	36 - 骑射手	20
+36 - Neutral Resource Modifier (Multiply)	36 - 中立资源修正（乘法）	42
+360 degrees when multiplying with 4th box radian value	与第4盒弧度值相乘时达360度	55
+37 - Doppelganger	37 - 复制人	18
+37 - Neutral Enable/Disable/Force Multiuse Tech	37 - 中立多用途科技	48
+37 - Neutral Spawn Unit	37 - 中立生产单位	24
+37 - Unused	37 - 未用	12
+38 - Bird	38 - 鸟	10
+38 - Neutral Modify Tech	38 - 中立修改科技	25
+38 - Unused	38 - 未用	12
+39 - Frigate 2	39 - 护卫舰2	15
+39 - Gate	39 - 门	10
+39 - Neutral Set Player Civ Name	39 - 中立设置文明	33
+39 - Slinger	39 - 投石手	13
+3: Garrison	3: 驻扎	12
+3rd Tech Level	第3科技等级	15
+4 - Attribute Modifier (+/-)	4 - 属性修正（+/-）	29
+4 - Civilian	4 - 平民	13
+4 - Set Research Location	4 - 设置研究点	26
+4 - Unit Size Y	4 - 单位尺寸Y	16
+4 - Wild Animal	4 - 野生动物	16
+4 Arabs	4阿拉伯	8
+4 Romans	4 罗马	9
+4 Royal Naboo	4 纳布皇家	14
+40 - A-A Destroyer 2	40 - 防空驱逐舰2	21
+40 - Actor	40 - 角色	11
+40 - Gaia Attribute Modifier (Set)	40 - 盖亚属性修正（设置）	35
+40 - Hero Status (types 70-80)	40 - 英雄状态（类型 70-80）	31
+40 - Salvage Pile	40 - 打捞堆	18
+41 - Frame Delay (types 50-80)	41 - 帧延迟（类型 50-80）	31
+41 - Gaia Resource Modifier (Set/+/-)	41 - 盖亚资源修正（设置/+/-）	38
+41 - Resource Pile	41 - 资源堆	19
+41 - Unused	41 - 未用	12
+42 - Bridge/Eye Candy	42 - 桥/装饰物	22
+42 - Gaia Enable/Disable Unit	42 - 盖亚启用/禁用单位	30
+42 - Relic	42 - 圣物	11
+42 - Train Location (types 70-80)	42 - 训练点（类型 70-80）	34
+43 - Bomber	43 - 轰炸机	12
+43 - Gaia Upgrade Unit	43 - 盖亚升级单位	23
+43 - Monk with Relic	43 - 持圣物僧侣	21
+43 - Train Button (types 70-80)	43 - 训练按钮（类型 70-80）	32
+44 - Blast Attack Level (types 50-80)	44 - 爆攻等级（类型 50-80）	38
+44 - Bounty Hunter	44 - 赏金猎人	19
+44 - Gaia Attribute Modifier (+/-)	44 - 盖亚属性修正（+/-）	35
+44 - Hand Cannoneer	44 - 火枪手	20
+45 - Blast Defense Level	45 - 爆防等级	25
+45 - Cargo Trader	45 - 货船	18
+45 - Gaia Attribute Modifier (Multiply)	45 - 盖亚属性倍率	40
+45 - Two Handed Swordsman	45 - 双手剑士	26
+46 - Displayed Attack (types 50-80)	46 - 显示攻击数值（类型 50-80）	36
+46 - Gaia Resource Modifier (Multiply)	46 - 盖亚资源倍率	39
+46 - Mixed 1	46 - 混合1	13
+46 - Pikeman	46 - 长枪兵	13
+47 - Displayed Range (types 50-80)	47 - 显示射程（类型 50-80）	35
+47 - Gaia Spawn Unit	47 - 盖亚生成单位	21
+47 - Scout	47 - 斥候	11
+48 - Displayed Melee Armor (types 50-80)	48 - 显示近战护甲（类型 50-80）	41
+48 - Fighter	48 - 战斗机	13
+48 - Gaia Modify Tech	48 - 盖亚修改科技	22
+48 - Ore Mine	48 - 矿脉	14
+49 - Displayed Pierce Armor (types 70-80)	49 - 显示远程护甲（类型 70-80）	42
+49 - Farm	49 - 农田	10
+49 - Grenade Trooper	49 - 掷弹兵	21
+4: Explore	4: 探索	11
+4th Tech Level	第4科技等级	15
+5 - Attribute Modifier (Multiply)	5 - 属性修正（乘法）	34
+5 - Monster/Trouble	5 - 怪物/麻烦	20
+5 - Movement Speed (types 20-80)	5 - 移动速度（类型 20-80）	33
+5 - Ocean Fish	5 - 海洋鱼	15
+5 - Set Research Button	5 - 设置研究按钮	24
+5 Americans	5 美洲人	12
+5 Trade Federation	5 贸易联盟	19
+50 - Jedi	50 - 绝地	10
+50 - Spearman	50 - 长枪兵	14
+50 - Superclass	50 - 超类	16
+50 - Unit Name String	50 - 单位名称串	22
+51 - Jedi with Holocron	51 - 带全息仪的绝地	24
+51 - Packed Unit	51 - 打包单位	17
+51 - Unit Short Description String	51 - 单位短描述字符串	35
+52 - Tower	52 - 塔	11
+52 - Trooper	52 - 突击兵	13
+52 - Unused	52 - 未用	12
+53 - Boarding Boat	53 - 接舷船	19
+53 - Terrain Restriction	53 - 地形限制	25
+53 - War Machine	53 - 战争机器	17
+54 - Medic	54-医疗兵	11
+54 - Unit Trait	54 - 单位特性	16
+54 - Unpacked Siege Unit	54 - 解包攻城单位	25
+55 - A-A Trooper	55 - 防空兵	17
+55 - Ballista	55 - 弩炮	14
+55 - Unit Civilization	55 - 单位文明	23
+56 - Mounted Trooper	56 - 骑乘士兵	21
+56 - Raider	56 - 袭击者	12
+56 - Unit Trait Piece	56 - 单位特性项	22
+57 - Cavalry Raider	57 - 骑兵突袭者	20
+57 - Dead Unit	57 - 尸体单位	15
+57 - Fambaa Shield Generator	57 - Fambaa护盾发生器	29
+58 - Hotkey	58 - 热键	12
+58 - Livestock	58 - 家畜	15
+58 - Workers	58 - 工人	13
+59 - Air Transport	59 - 空中运输	19
+59 - King	59 - 国王	10
+59 - Maximum Charge (types 70-80)	59 - 最大蓄力（类型 70-80）	34
+5: Gather/Rebuild	5: 采集/重建	18
+5th Tech Level	第5科技等级	15
+6 - Infantry	6 - 步兵	13
+6 - Resource Modifier (Multiply)	6 - 资源修正（乘法）	33
+6 - Rotation Speed (types 30-80)	6 - 旋转速度（类型 30-80）	33
+6 - Set Icon	6 - 设图标	13
+6 - Wall	6 - 墙	9
+6 3/4 Envelope, 3 5/8 x 6 1/2 in	6 3/4 信封, 3 5/8 x 6 1/2 in	33
+6 South Europeans	6 南欧人	18
+6 Wookiees	6 伍基人	11
+60 - Domestic Animal	60 - 家畜	21
+60 - Misc Building	60 - 杂项建筑	19
+60 - Projectile	60 - 投射物	16
+60 - Recharge Rate (types 70-80)	60 - 充能速率（类型 70-80）	33
+61 - Charge Event (types 70-80)	61 - 蓄力事件（类型 70-80）	32
+61 - Controlled Animal	61 - 受控动物	23
+61 - Power Droid	61 - 动力机器人	17
+62 - Air Cruiser	62 - 空中巡洋舰	17
+62 - Charge Type (types 70-80)	62 - 充能类型（类型 70-80）	31
+63 - Combat Ability (types 50-80)	63 - 战斗能力（类型 50-80）	34
+63 - Geonosian Warrior	63 - 吉奥诺西斯战士	23
+64 - Attack Dispersion (types 50-80)	64 - 攻击散布（类型 50-80）	37
+64 - Jedi Starfighter	64 - 绝地战机	22
+65 - Secondary Projectile Unit (types 70-80)	65 - 次要投射物单位（类型 70-80）	45
+66 - Blood Unit	66 - 血单位	16
+67 - Projectile Hit Mode (type 60)	67 - 投射物击模（类型 60）	35
+68 - Projectile Vanish Mode (type 60)	68 - 投射物消模（类型 60）	38
+69 - Projectile Arc (type 60)	69 - 投射弧（类型60）	30
+6: Deleted (Graze)	6: 已删除（吃草）	19
+7 - Berry Bush	7 - 浆果丛	15
+7 - Enable/Disable/Force Multiuse Tech	7 - 启用/禁用/强制多用途科技	39
+7 - Farm	7 - 农田	9
+7 - Set Name	7 - 设名称	13
+7 - Spawn Unit	7 - 生成单位	15
+7 - Unused	7 - 未用	11
+7 Indians	7 印度	10
+7 Republic	7 共和	11
+70 - Attack Graphic (types 50-80)	70 - 攻击图像（类型 50-80）	34
+70 - Combatant	70 - 战斗单位	15
+71 - Standing Graphic	71 - 站立图像	22
+72 - Second Standing Graphic	72 - 第二站立图像	29
+73 - Dying Graphic	73 - 死亡图像	19
+74 - Undead Graphic	74 - 亡灵图像	20
+75 - Walking Graphic (types 30-80)	75 - 行走图像（类型 30-80）	35
+76 - Running Graphic (types 30-80)	76 - 奔跑图像（类型 30-80）	35
+77 - Special Graphic (types 70-80)	77 - 特殊图像（类型 70-80）	35
+7: Combat	7: 战斗	10
+8 - Armor (no multiply, types 50-80)	8 - 护甲（无乘法，类型 50-80）	37
+8 - Armor (types 50-80)	8 - 护甲（类型 50-80）	24
+8 - Gate	8 - 门	9
+8 - Modify Tech	8 - 修改科技	16
+8 - Set Description	8 - 设置描述	20
+8 - Stone Mine	8 - 石矿	15
+8 Confederacy	8 邦联	14
+8 East Europeans	8 东欧人	17
+80 - Building	80 - 建筑	14
+8: Shoot	8: 射击	9
+9 - Attack (no multiply, types 50-80)	9 - 攻击力（无乘法，类型 50-80）	38
+9 - Attack (types 50-80)	9 - 攻击（类型50-80）	25
+9 - Fortress/A-A Turret	9 - 堡垒/防空炮塔	24
+9 - Prey Animal	9 - 猎物	16
+9 - Set Player Civ Name	9 - 设置玩家文明	24
+9 - Set Stacking	9 - 设定堆叠	17
+9 Africans	9 非洲	11
+9 Ask Tapsa for more!	9 找 Tapsa 要更多！	22
+90 - Tree (AoE)	90 - 树(帝国1)	16
+9: Attack	9: 攻击	10
+: unknown charset	：未知字符集	18
+: unknown encoding	：未知编码	19
+[no window]	[无窗口]	12
+a DDEML function was called without first calling the DdeInitialize function,
+or an invalid instance identifier
+was passed to a DDEML function.	未先调用 DdeInitialize 函数就调用了 DDEML 函数，
+或向 DDEML 函数传递了
+无效的实例标识符。	144
+A JSON parse error occurred	JSON 解析出错	28
+A JSON Pointer parse error occurred	JSON 指针解析出错	36
+a memory allocation failed.	内存分配失败。	28
+a parameter failed to be validated by the DDEML.	某参数未能通过 DDEML 校验。	49
+a request to end an advise transaction has timed out.	结束通知事务的请求已超时。	54
+a server-side transaction was attempted on a conversation
+that was terminated by the client, or the server
+terminated before completing a transaction.	试图在已被客户端终止的会话上
+进行服务器端事务，或服务器
+在完成事务前终止。	151
+A single graphic has to be selected from the list	请从列表中选中一个图形	50
+A3 Extra Transverse 322 x 445 mm	A3 Extra 横向 322 x 445 mm	33
+A3 Transverse 297 x 420 mm	A3 横向 297 x 420 mm	27
+A4 Extra 9.27 x 12.69 in	A4 加长 9.27 x 12.69 in	25
+A4 small sheet, 210 x 297 mm	A4 小号纸，210 x 297 mm	29
+A4 Transverse 210 x 297 mm	A4 横向 210 x 297 mm	27
+A5 Transverse 148 x 210 mm	A5 横向 148 x 210 mm	27
+About	关于	6
+About Advanced Genie Editor	关于高级 Genie 编辑器 	28
+Accuracy Percent	精度%	17
+Action * 	动作 * 	10
+Activates depending on special ability	视特殊能力而启用	39
+Actual Size	实际大小	12
+Add	加	4
+Add *	加 *	6
+Add/Insert/Delete works for all civilizations
+...	加/插入/删除对所有文明生效
+...	50
+AddGrowableCol() called for growable column	对可伸缩列调用了 AddGrowableCol()	44
+Adjacent Mode	相邻模式	14
+Adjacent Mode *	相邻模式	16
+Advanced Genie Editor	高级 Genie 编辑器 	22
+Advanced Genie Editor
+Version 	高级 Genie 编辑器
+版本 	31
+Advanced Genie Editor 	高级 Genie 编辑器 	23
+After 1st dying graphic:
+0   Transform into dead unit
+1   Show undead graphic	首个死亡图像之后：
+0   变为尸体单位
+1   显示亡者图像	78
+Age 	时代	5
+Age (1st Item)	时代(第1项)	15
+Age of Empires	帝国时代	15
+Age of Empires (7.2)	帝国时代 (7.2)	21
+Age of Empires Beta (7.04 - 7.11)	帝国时代Beta (7.04 - 7.11)	34
+Age of Empires II: Definitive Edition	帝国时代II：决定版	38
+Age of Empires II: HD	帝国时代II：HD版	22
+Age of Empires: Definitive Edition	帝国时代：决定版	35
+Age of Kings	帝王时代	13
+Age of Kings (11.5)	帝王时代 (11.5)	20
+Age of Kings Alpha (10.19)	帝王时代Alpha (10.19)	27
+Age of Kings Beta (11.05)	帝王时代Beta (11.05)	26
+Age of Kings E3 (9.36)	帝王时代E3 (9.36)	23
+Age of Kings Heaven AGE forum topic	帝国时代乐园AGE论坛帖	36
+Age: 	时代:	6
+ages	时代	5
+Ages	时代	5
+Air Cruisers	空中巡洋舰	13
+Aircraft Regenerates Hit Points	飞行器恢复生命值	32
+Align Left	左对齐	11
+Align Right	右对齐	12
+All	全	4
+All (Sand Walk Rate 2)	全部（沙地行走2）	23
+All + [Rock Explode/Splash]	全部 + [岩石爆裂/水花]	28
+All + Water, [Rain Puddles]	全部 + 水，[雨坑]	28
+All - bridge, arrow decay	全-桥,箭矢消散	26
+All - bridge, dart decay	全-桥,飞镖消散	25
+All - bridge, ground impact	全-桥,地面冲击	28
+All - bridge, laser impact	全-桥,激光冲击	27
+All - Bridge, Lava	全部-桥熔岩	19
+All - Bridge, Lava + [Arrow/Spear]	全部-桥熔岩[箭/矛]	35
+All - bridge, spear decay	全-桥,长枪消散	26
+All - Lava + [Medium Impact]	全 - 岩浆 +[中冲击]	29
+All - Lava + [Small Energy Explosion]	全 - 岩浆 +[小能量爆炸]	38
+All - water, cavalry dust	全-水,骑兵尘	26
+All - water, foot dust	全-水,足尘	23
+All - water, wheel track	全-水,车轮痕	25
+All Artifacts Captured	占领全部神器	23
+All Buildings	所有建筑	14
+All Buildings (except Port)	所有建筑(港口除外)	28
+all buttons are supposed to be of same width	所有按钮的宽度应保持一致	45
+All civs *	所有文明 *	11
+All Monuments Captured	占领全部纪念碑	23
+All Relics Captured	夺取全部圣物	20
+All right	确定	10
+All Ruins Captured	夺取全部遗迹	19
+All Techs Achieved	全科技达成	19
+Allow adding &terrains	允许添加&地形	23
+Alpha channel missing	缺少 Alpha 通道	22
+already open	已打开	13
+Amount	数量	7
+Amount 	数量	8
+Amount [%] 	数量 [%] 	12
+Amount [*] 	数量 [*] 	12
+Amount [+/-] 	数量 [+/-] 	14
+Amount [+] 	数量 [+] 	12
+Amount [Set] 	数量 [设置] 	14
+Amount: 	数量： 	9
+an application initialized as APPCLASS_MONITOR has
+attempted to perform a DDE transaction,
+or an application initialized as APPCMD_CLIENTONLY has 
+attempted to perform server transactions.	初始化为 APPCLASS_MONITOR 的应用程序
+试图执行 DDE 事务，
+或初始化为 APPCMD_CLIENTONLY 的应用程序
+试图执行服务器事务。	189
+An error occurred during conversion	转换过程中出错	36
+An ID from the language file	语言文件中的 ID	29
+an internal error has occurred in the DDEML.	DDEML 发生内部错误。	45
+an invalid transaction identifier was passed to a DDEML function.
+Once the application has returned from an XTYP_XACT_COMPLETE callback,
+the transaction identifier for that callback is no longer valid.	向 DDEML 函数传递了无效的事务标识符。
+应用程序从 XTYP_XACT_COMPLETE 回调返回后，
+该回调的事务标识符即失效。	202
+an old event handler is NULL?	旧事件处理器为 NULL？	30
+And	和	4
+Angle 	角度 	7
+Angle Count	角度数	12
+Angle count clockwise from east after mirroring starts.
+Angles before south are mirrored too.
+From the graphics scanner, if the graphic mirror is > 0,
+mirror = (angle_count >> 1) + (angle_count >> 2)	镜像开始后从东顺时针计的角度数。
+南之前的角度也会被镜像。
+来自图形扫描器：若图形镜像 > 0，
+mirror = (angle_count >> 1) + (angle_count >> 2)	200
+Angle Sounds	 角度音效	13
+Angle Sounds Used	角度音效启用	18
+Angle Wave Works Sounds	角度波浪音效	24
+Animate	动画	8
+Animation Duration	动画时长	19
+Annex	附属	6
+Annexes	附属	8
+AoE       	帝国时代  	11
+AoE alphas: Target choosing based on combat level
+0   No targeting
+1   Allows units to select their targets	帝国时代内测版：按战斗等级选择目标
+0   不选择目标
+1   允许单位选择自己的目标	108
+AoE Beta  	帝国测试版	11
+AoE DE    	帝国决定版	11
+AoK       	帝王时代  	11
+AoK Alpha 	帝王内测  	11
+AoK Beta  	帝王测试版	11
+AoK DE    	帝王决定版	11
+AoK E3    	帝王E3    	11
+AoK HD    	帝王HD版  	11
+AoK+
+0   Normal
+2   Show progress in age bar.
+AoE/RoR: Used to track similar
+technologies for modding purposes,
+without actual usage in the game.	帝王时代+
+0   正常
+2   在时代进度条中显示进度。
+帝国时代/罗马复兴：用于在 Mod 中
+追踪相似科技，
+游戏里实际并不使用。	146
+AoK+ only	仅帝王+	10
+Appears when the building dies
+Does not appear with delete command	建筑死亡时出现
+用删除命令时不出现	67
+Application built with libpng-	程序基于 libpng- 构建	31
+Applies to all sounds	应用于所有音效	22
+Apply	应用	6
+Apply to all	应用到全部	13
+Arc multiplier of the sector where the projectiles may hit.
+Higher values will make missed hits disperse more.	投射物可能命中的扇区弧度倍率。
+值越大，未命中时散布越开。	111
+Archers	弓兵	8
+Area damage. If the value is above 0, it's a multiplier applied to the base attack. If the value is negative, it does a fixed amount of damage.	区域伤害。值大于0时为基础攻击的倍率；为负值时造成固定伤害。	144
+Area Effect Specials	区域效果特殊项	21
+argument out of supported range	参数超出支持的范围	32
+Armor class that this unit can damage
+You can make your own classes	该单位可伤害的护甲类别
+你可以自制类别	68
+Armor Count	护甲数量	12
+Armor count of civs
+	各文明护甲数量
+	21
+armor type 	护甲类型 	12
+Armors	护甲	7
+array too large	数组过大	16
+Artifacts Captured	夺取古物	19
+Assault Walkers	突击机	16
+Assign multiple train locations to a unit	为单位指定多个训练点	42
+Assigned using SHP Filename	按 SHP 文件名分配	28
+Attack	攻击力	7
+Attack class from which this unit can take damage
+You can make your own classes	此单位会受其伤害的攻击类别
+你可以自建类别	80
+Attack Count	攻击数量	13
+Attack count of civs
+	各文明攻击数量
+	22
+Attack Dispersion	攻击散布	18
+Attack Graphic	 攻击图像	15
+Attack Graphic 2	攻击图2	17
+Attack Priority	攻击优先	16
+Attack Reaction	攻击反应	16
+Attack Sound	攻击音效	13
+attack type 	攻击类型 	13
+Attack Warning Sound ID	攻击警告音效 ID	24
+Attack Wave Works Sound	攻击波形音效	24
+Attacks	攻击	8
+ATTENTION!
+Changes to editing boxes affect all selected items!
+	注意！
+修改编辑框会影响所有选中项！
+	64
+attr 	属性 	6
+Attribute 	属性 	11
+Attribute A 	属性A	13
+Attribute B 	属性B	13
+Attribute C 	属性C	13
+Attribute D 	属性D	13
+Attribute Flag
+0   Keep. Decayable resource.
+1   Give. Stored after death also.
+2   Give and take. Resets on dying, enables instantly.
+4   Building. Resets on dying, enables on completion.
+UP: 8   Stored on completion and stays after death.
+AoE2DE: 32   Stored throughout dying animation.	属性标志
+0   保留。可衰减资源。
+1   给予。死亡后也保留。
+2   给与取。死亡时重置，立即启用。
+4   建筑。死亡时重置，建成时启用。
+UP: 8   建成时保留，死亡后仍在。
+AoE2DE: 32   整个死亡动画期间都保留。	289
+Attributes	属性	11
+Auto	自动	5
+Auto # from 1st	首项编号	16
+Auto odds	自动率	10
+Automatically	自动	14
+Automatically backup files	自动备份文件	27
+Available	可用	10
+Available *	可用	12
+B4 (JIS) Rotated 364 x 257 mm	B4 (JIS) 旋转 364 x 257 mm	30
+B4 Envelope, 250 x 353 mm	B4 信封, 250 x 353 mm	26
+B5 (ISO) Extra 201 x 276 mm	B5(ISO)加长 201 x 276 mm	28
+B5 (JIS) Rotated 257 x 182 mm	B5 (JIS) 旋转 257 x 182 mm	30
+B5 (JIS) Transverse 182 x 257 mm	B5 (JIS) 横向 182 x 257 mm	33
+B5 Envelope, 176 x 250 mm	B5 信封, 176 x 250 mm	26
+B5 sheet, 182 x 257 millimeter	B5 纸张，182 x 257 mm	31
+B6 (JIS) Rotated 182 x 128 mm	B6 (JIS) 旋转 182 x 128 mm	30
+B6 Envelope, 176 x 125 mm	B6 信封, 176 x 125 mm	26
+Back	返回	5
+bad adaptive filter value	自适应滤波值错误	26
+bad allocation	内存分配失败	15
+Bad floating point	浮点数错误	19
+bad height format	高度格式错误	18
+Bad integer. Valid range is from 0 or -255 to 255.	整数无效，有效范围 0 或 -255 至 255。	51
+Bad integer. Valid range is from 0 to 255.	整数无效。有效范围是 0 到 255。	43
+Bad pixel data	像素数据错误	15
+bad width format	宽度格式错误	17
+Base Armor	基础护甲	11
+Base ID	基准 ID	8
+Base Land Data	基础陆地	15
+Base Melee	基础近战	11
+Base Melee/Armor	基础近战/护甲	17
+Base Pierce	基础远程	12
+Base placement
+0   Random
+1   Given
+2   Spaced	基地放置
+0   随机
+1   指定
+2   等距	47
+Base Ranged/DuraArmor	基础远程/耐久甲	22
+Basically useless
+Used to setup task when discovered,
+but you can directly set it in unit data above	基本没用
+用于在被发现时设置任务，
+但你可以直接在上面的单位数据里设置	101
+Battle Royale Food Generation	大逃杀食物产生率	30
+Battle Royale Gold Generation	大逃杀金币产生率	30
+Battle Royale Stone Generation	大逃杀石头产生率	31
+Battle Royale Wood Generation	大逃杀木材产生率	30
+Beach	沙滩	6
+Berry Storage	浆果存储	14
+Berserker Heal Timer	狂战士治疗计时	21
+bitmap already initialized	位图已初始化	27
+bKGD must be after	bKGD 必须在其后	19
+Blast Attack Level	爆攻等级	19
+Blast Damage	爆炸伤害	13
+Blast Defense Level	爆炸防御等级	20
+Blast Width	爆炸宽度	12
+Blasts damage units that have higher or same blast armor level
+0   Damages resources also
+1   Damages trees also
+2   Damages nearby units
+3   Damages only targeted unit	爆炸会伤到爆炸护甲等级相同或更高的单位
+0   也伤害资源
+1   也伤害树木
+2   伤害附近单位
+3   只伤害目标单位	169
+Blend Priority	混合优先级	15
+Blend Type	混合类型	11
+Blood Unit	血单位	11
+BMP: Couldn't allocate memory.	BMP：内存分配失败。	31
+BMP: Couldn't save invalid image.	BMP：无法保存无效图像。	34
+BMP: Couldn't write data.	BMP: 无法写入数据。	26
+BMP: Couldn't write RGB color map.	BMP：RGB 颜色表写入失败。	35
+BMP: Couldn't write the file (Bitmap) header.	BMP：无法写入文件头(Bitmap)。	46
+BMP: Couldn't write the file (BitmapInfo) header.	BMP：无法写入文件头(BitmapInfo)。	50
+Boarding Recharge Rate	登船充能速率	23
+Bold	加粗	5
+Bonus Damage Resistance	加成伤害抗性	24
+Bonus Population Cap	额外人口上限	21
+Border 	边界 	8
+Border Shapes	边界形状	14
+Borders	边界	8
+Bottom	底部	7
+Bounty Hunters	赏金猎人	15
+Break off Combat	脱离战斗	17
+Bribery (Gold Cost Replace)	行贿（金币价格替换）	28
+Bronze Age	青铜时代	11
+Bronze Age Tech ID	青铜时代科技 ID	19
+Browse	浏览	7
+Build	建筑	6
+Building	建筑	9
+Building Cost Sum	建筑价格和	18
+Building Housing Rate	建筑驻扎速率	22
+Building icon set (and trade cart graphics?)
+This is actually an offset used to look up SLPs inside the DRS file
+AoE 1: also determines the interface graphics used
+Star Wars: also determines unit and tech icons	建筑图标集（还有贸易马车图像？）
+实际是用于在 DRS 文件里查找 SLP 的偏移量
+帝国时代1：也决定所用的界面图像
+星战：也决定单位和科技图标	211
+Building Pick *	建筑拾取	16
+Building Repair Cost	建筑修理费用	21
+Building Self Regeneration Timer	建筑自我再生计时器	33
+Building: 	建筑: 	11
+Buildings	建筑	10
+buildings	建筑	10
+Buildings are self powered	建筑自供电	27
+Buildings per zone	每区域建筑数	19
+Built: Vanishes *	建成消失	18
+Button	按钮	7
+Button Action	按钮动作	14
+Button Icon	按钮图标	12
+button_action_list of the hotkey to use for the button	按钮所用热键的button_action_list	55
+C3 Envelope, 324 x 458 mm	C3 信封, 324 x 458 mm	26
+C4 Envelope, 229 x 324 mm	C4 信封, 229 x 324 mm	26
+C5 Envelope, 162 x 229 mm	C5 信封, 162 x 229 mm	26
+C6 Envelope, 114 x 162 mm	C6 信封, 114 x 162 mm	26
+C65 Envelope, 114 x 229 mm	C65 信封，114 x 229 mm	27
+Call to NULL read function	调用了 NULL 读取函数	27
+Call to NULL write function	调用了 NULL 写入函数	28
+Can alter decay time of corpses
+Set to -1 for never decaying	可改变尸体腐烂时间
+设为-1则永不腐烂	61
+Can be Built on	可建其上	16
+Can be Built on *	可建其上	18
+Can be Gathered *	可采集 *	18
+Can be over 100	可超过100	16
+Can Burn	可烧	9
+Can Convert	可招降	12
+can only have one optional value	只能有一个可选值	33
+Can't be used if no text control	没有文本控件时无法使用	33
+can't extend shared buffer	无法扩展共享缓冲区	27
+can't load any font, aborting	无法加载任何字体，中止	30
+Can't open default converter	无法打开默认转换器	29
+Can't open default converter.	无法打开默认转换器。	30
+can't open user configuration file.	无法打开用户配置文件。	36
+can't release shared buffer	无法释放共享缓冲区	28
+Can't save log contents to file.	无法把日志内容保存到文件。	33
+can't send an event without a window	没有窗口时无法发送事件	37
+Can't set thread priority	无法设置线程优先级	26
+can't shrink shared buffer	无法缩小共享缓冲区	27
+Can't write sCAL (buffer too small)	无法写入 sCAL（缓冲区太小）	36
+can't write user configuration file.	无法写入用户配置文件。	37
+Cancel	取消	7
+cannot extend non-owned buffer	无法扩展非自有缓冲区	31
+Cannot load player palette	无法加载玩家调色板	27
+Cannot load sound	无法加载音效	18
+Cannot open converter from 	无法打开转换器 	28
+Cannot open folder 	无法打开文件夹 	20
+Cannot remove the window itself	不能移除窗口自身	32
+Cannot resume thread %lx	无法恢复线程 %lx	25
+cannot shrink non-owned buffer	无法收缩非自有缓冲区	31
+Cant read file: "	无法读取文件："	18
+Carbon Gathering Productivity	碳采集生产力	30
+Carbon Score	碳矿分	13
+Carbon Storage	碳存储	15
+Carbon Total	碳总计	13
+Carry	携带	6
+Carry Check *	携查 *	14
+Castle Age	城堡时代	11
+Castle Age Tech ID	城堡时代科技 ID	19
+Causes that technology to be researched when the building is created	建筑建成时自动研究该科技	69
+Cavalry	骑兵	8
+Cavalry Archers	骑射	16
+Cavalry Kill Reward	骑兵击杀奖励	20
+CC        	克隆战役  	11
+CD-DA cue sheet track number must be 1-99 or 170	CD-DA CUE 表音轨号必须为 1-99 或 170	49
+CD-ROM	光盘	7
+chain complete	链已完成	15
+Change 	更改 	8
+Change resource 	更改资源 	17
+Change tech 	更改科技 	13
+Charge Event	蓄力事件	13
+Charge Projectile Unit	装填投射物单位	23
+Charge Target	蓄力目标	14
+Charge Type	充能类型	12
+Choose a graphic from graphics tab	请在图形选项卡中选择图形	35
+Chopping Gold Productivity	伐木金币产量	27
+Chopping Productivity	伐木效率	22
+cHRM chunk does not match sRGB	cHRM 数据块与 sRGB 不匹配	31
+Civ 	文明	5
+Civilian Population	平民人口	20
+Civilization	文明	13
+Civilization Name Override	文明名称覆盖	27
+Civilizations	文明	14
+Civs: 	文明：	7
+Class	类别	6
+Class 	类别	7
+Clear	清除	6
+Clear *	清除 *	8
+Clear the modified search texts	清除已修改的搜索文本	32
+Clearance Shape	通行形状	16
+Clearance Size XY	通行XY	18
+Cliff Colors	悬崖颜色	13
+Clone Campaigns	克隆战役	16
+Clone Campaigns (1.1)	克隆战役(1.1)	22
+Close	关闭	6
+Close current document	关闭当前文档	23
+Clusters in the map	地图上的聚簇	20
+Cmd [%X] not implemented	命令 [%X] 未实现	25
+Coastal (	沿岸 (	10
+Collision Shape	碰撞形状	16
+Collision Size XY	碰撞XY	18
+Collision Size Z	碰撞Z	17
+Color	颜色 	6
+Color 	颜色 	7
+Colors	颜色	7
+Colour selection dialog failed with error %0lx.	颜色选择对话框失败，错误 %0lx。	48
+Columns	列	8
+columns only exist in report view	列只存在于报表视图	34
+Combat Level	战斗等级	13
+Combinable bit field
+0   No outline
+1   Outline displayed through occlusion
+2   Occludes others
+4   Outline displayed while constructing	可组合位域
+0   无轮廓
+1   被遮挡时仍显示轮廓
+2   遮挡其它物件
+4   建造时显示轮廓	137
+Combinable bit field
+0x1   Animated
+0x2   Directional
+0x4   Sprite randomized
+0x8   Loop once	可组合位字段
+0x1   动画
+0x2   方向性
+0x4   精灵随机
+0x8   只循环一次	94
+Command count of civs
+	各文明命令数量
+	23
+Commands of all Effects	所有效果指令	24
+Common dialog failed with error code %0lx.	通用对话框失败，错误码 %0lx。	43
+Compile SLP &list	编译SLP&列表	18
+Completely useless	完全无用	19
+Compressed data set (*.dat):	压缩数据文件 (*.dat)：	29
+Compressed data set (*.dat)|*.dat	压缩数据集 (*.dat)|*.dat	34
+compressed data too long	压缩数据过长	25
+Compressed genie file|*	压缩 genie 文件|*	24
+Compression buffer size cannot be reduced below 6	压缩缓冲区大小不能减小到 6 以下	50
+Configuration (*.conf)|*.conf	配置(*.conf)|*.conf	30
+Configuration files (*.conf)|*.conf	配置文件 (*.conf)|*.conf	36
+Congrats seeing this message	恭喜你看到这条消息	29
+Connected Buildings	关联建筑	20
+Connected Items	关联项	16
+Connected Techs	关联科技	16
+Connected Units	连接单元	16
+Construction Graphic	建造图像	21
+Construction Rate Modifier	建造速率修正	27
+Construction Sound	建造音效	19
+Construction Wave Works Sound	建造波形音效	30
+Continental (	大陆 (	14
+Controlled Animals & Wild Animals	受控动物和野生动物	34
+Controls graphic altitude when teleporting
+0   Stay on ground
+1   Graphics appear higher than the shadow	控制传送时的图像高度
+0   停留在地面上
+1   图像显示得比阴影高	105
+Controls whether this unit garrisoned modifies the firepower of the building. Positive is a multiplier, negative is a flat value override. 0 does not modify	控制此单位驻扎时是否改变建筑的火力。正值是倍率，负值直接覆盖数值。0 不改变	157
+Conversion Chance Mod	招降几率修正	22
+Conversion Range	招降射程	17
+Conversion Resistance	招降抗性	22
+Convert	转换	8
+Convert Boats	招降船只	14
+Convert Building Chance	招降建筑概率	24
+Convert Building Max	招降建筑最大	21
+Convert Building Min	招降建筑最小	21
+Convert Max Adjustment	招降最大调整	23
+Convert Min Adjustment	招降最小调整	23
+Convert Resist Max Adjustment	招降抗性最大调整	30
+Convert Resist Min Adjustment	招降抗性最小调整	30
+Convert Terrain	转换地形	16
+Converted Units Die	招降单位死亡	20
+Coordinates	坐标	12
+Copy	复制	5
+Copy *	复制 *	7
+Copy all to selected 	复制到所选	22
+Copy all to selected ages	复制到所选时代	26
+Copy all to selected effects	复制到所选效果	29
+Copy all to selected graphics	复制到所选图像	30
+Copy all to selected maps	复制到所选地图	26
+Copy all to selected sounds	复制到所选音效	28
+Copy all to selected techs	复制到所选科技	27
+Copy all to selected terrain borders	复制到所选边界	37
+Copy all to selected terrains	复制到所选地形	30
+Copy all to selected tile types	复制到所选地块	32
+Copy all to selected unitlines	复制到所选单位线	31
+Copy all to selected units	复制到所选单位	27
+Copy ID	副本 ID	8
+Copy selection	复制所选内容	15
+Copy sounds from civ to civ *	文明间复制音效 *	30
+Copy to all	复制全	12
+Copy to all civs	复制文明	17
+Corpse Decay Time	尸体腐化时间	18
+Corrupt file	文件损坏	13
+Cost Amounts	价格数量	13
+Cost Types	价格类型	11
+Cost Uses	价格用途	10
+Costs	价格	6
+Could not set current working directory	无法设置当前工作目录	40
+Could not start DAT Processing Tool	无法启动 DAT 处理工具	36
+Could not start document preview.	无法启动文档预览。	34
+Could not start printing.	无法开始打印。	26
+Could not transfer data to window	无法向窗口传输数据	34
+Couldn't obtain folder name	无法获取文件夹名	28
+Couldn't save PNG image.	无法保存 PNG 图像。	25
+Counts/Num	计数/数量	11
+CRC error	CRC错误	10
+Creatable Type	可造类型	15
+Create doppelganger on death.
+0   None
+1   After death
+2   When dying	死亡时产生分身。
+0   无
+1   死后
+2   濒死时	70
+CreateKeyEvent() can't be used for char events	CreateKeyEvent() 不能用于字符事件	47
+Credits:
+Ykkrosh - GeniEd 1 source code
+Scenario_t_c - GeniEd 2 source code
+Alexandra "Taichi San", DarkRain654 - data file research
+DiGiT, JustTesting1234, AOHH - genie file structure
+Cysion, Kris, Sarthos - important help
+Tevious - SMX support
+Grenadier (RvA) - terrain patch
+withmorten - UserPatch effect support
+BF_Tanks - some help
+Donnieboy, Sarn, chab - tooltip texts
+gagman - new icon	贡献者：
+Ykkrosh - GeniEd 1 源码
+Scenario_t_c - GeniEd 2 源码
+Alexandra "Taichi San"、DarkRain654 - 数据文件研究
+DiGiT、JustTesting1234、AOHH - genie 文件结构
+Cysion、Kris、Sarthos - 重要帮助
+Tevious - SMX 支持
+Grenadier (RvA) - 地形补丁
+withmorten - UserPatch 效果支持
+BF_Tanks - 一些帮助
+Donnieboy、Sarn、chab - 提示文本
+gagman - 新图标	393
+Crenellations	雉堞	14
+Cu&t	&剪	5
+cue sheet must have at least one track (the lead-out)	CUE 表至少要有一个音轨（lead-out）	54
+cue sheet track index numbers must increase by 1	CUE 表音轨索引号必须逐个加 1	49
+cue sheet track must have at least one index point	CUE 表音轨至少要有一个索引点	51
+cue sheet track's first index number must be 0 or 1	CUE 表音轨的首个索引号必须为 0 或 1	52
+Current Age	当前时代	12
+Current Population	当前人口	19
+Current Tech Level	当前科技等级	19
+Custom path override:	自定义路径覆盖：	22
+Cut selection	剪切所选	14
+Damage Graphic Count	受伤图形数	21
+Damage graphic count of civs
+	各文明受伤图形数
+	30
+Damage Graphics	受伤图形	16
+Damage Reflection	伤害反射	18
+Damage reflection. Damage percentage the attacking unit takes when damaging this unit.	伤害反射。攻击者攻击此单位时承受的伤害百分比。	87
+Damage resistance for bonus armors (all but 3, 4, and 31)	加成护甲伤害抗性(除3、4和31)	58
+Damage Sound	受伤音效	13
+Damage Wave Works Sound	受伤波形音效	24
+Damage Wwise Sound	受伤Wwise音效	19
+damaged LZ stream	LZ 流已损坏	18
+Dark Age	黑暗时代	9
+Dark Age Tech ID	黑暗时代科技ID	17
+DAT Processing Failed	DAT 处理失败	22
+DAT Processing Successful	DAT 处理成功	26
+DAT Processing Tool 	DAT 处理工具 	21
+Data * 	数据 * 	8
+Dave      	戴夫      	11
+Dead Unit	尸体单位	10
+Debug: Prepare: No resource section header!
+	调试：准备：没有资源节头！
+	45
+Decimators (incl. Assault Mechs)	毁灭者（含突击机甲）	33
+Decompress only	仅解压	16
+Deduct	扣减	7
+Deep Water	深水	11
+Default encoding	默认编码	17
+Default Task	默认任务	13
+deflateEnd failed (ignored)	deflateEnd 失败（已忽略）	28
+Delete	删除	7
+Delete selection	删除所选	17
+Delta	增量	6
+Delta Count	增量数	12
+Deltas	增量	7
+Destroyers	驱逐舰	11
+Determines HP bar location
+Vertical half tile (elevation height?) distance from the top corner?	决定生命条的位置
+距顶部角落的垂直半个地块（高度？）距离？	96
+Determines many things and works in conjunction with other variables	决定多个变量并结合其它变量	69
+Determines what the unit changes into when given the order to unpack	决定单位收到展开命令后变成的单位	69
+DIB Header: Encoding doesn't match bitdepth.	DIB 头：编码与位深不匹配。	45
+DIB Header: Image height > 32767 pixels for file.	DIB 头：图像高度超过 32767 像素。	50
+DIB Header: Image width > 32767 pixels for file.	DIB 头：图像宽度超过 32767 像素。	49
+Different header2 in PalFile	PalFile 中 header2 不同	29
+Disable tech 	禁用科技 	14
+Disabled	禁用	9
+Disabled *	禁用	11
+Disabler	禁用器	9
+Disappears After Built	建成后消失	23
+Displayed Attack	显示攻击数值	17
+Displayed Melee Armor	近战护甲	22
+Displayed Pierce Armor	远程护甲	23
+Displayed Range	显示射程	16
+Displayed Reload Time	显示装填时间	22
+DL Envelope, 110 x 220 mm	DL 信封, 110 x 220 mm	26
+DLL or text (*.dll, *.txt)|*.dll;*.txt	DLL或文本 (*.dll, *.txt)|*.dll;*.txt	39
+Dmg Reflection	伤害反射	15
+Do you want to save changes made to open files?
+There are 	是否保存对已打开文件的更改？
+共有 	59
+Document:	文档：	10
+Dominant Sheep Control	优势绵羊控制	23
+Don't show this dialog again	不再显示此对话框	29
+Don't use 0 here for units that are owned at start.
+0 is okay for other units (gold/bushes/gazelle/etc).
+You can use -1 as a wildcard for units that are owned at start.	开局就拥有的单位不要填 0。
+其它单位（金矿/灌木/瞪羚等）可以填 0。
+开局拥有的单位也可用 -1 通配。	169
+Doppelganger on Death	死亡时分身	22
+Double *	双倍	9
+Double Japanese Postcard Rotated 148 x 200 mm	双联日式明信片（旋转）148 x 200 mm	46
+Down	下移	5
+Download Turtle Pack from AoKH to add more than 127 icons.	从AoKH下载Turtle Pack以加超127图标	59
+Draw Level
+0   None. No dot on minimap.
+1   Unit. Square dot turning white when selected.
+2   Building. Diamond dot turning white when selected.
+3   Terrain. Diamond dot keeping color.
+4   Terrain. Larger spot, not following the unit,
+      no blinking when attacked, everyone can see it.	绘制层级
+0   无。小地图上不显示点。
+1   单位。选中时方点变白。
+2   建筑。选中时菱形点变白。
+3   地形。菱形点保持原色。
+4   地形。较大的点，不跟随单位，
+      被攻击时不闪烁，所有人都能看到。	289
+Draw Level
+0   Terrain
+5   Shadows, farms
+6   Rubble
+10   Constructions, corpses, shadows, flowers, ruins
+11   Fish
+19   Rugs, craters
+20   Buildings, units, damage flames, mill animation
+21   Blacksmith smoke
+22   Hawk
+30   Projectiles, explosions	绘制层级
+0   地形
+5   阴影、农田
+6   废墟
+10   建造物、尸体、阴影、花、遗迹
+11   鱼
+19   地毯、弹坑
+20   建筑、单位、受损火焰、磨坊动画
+21   铁匠铺烟雾
+22   鹰
+30   投射物、爆炸	249
+Drop Site Count	卸货点数量	16
+Drop site count of civs
+	各文明卸货点数量
+	25
+Drop Sites	卸货点	11
+Drop-off Time of Shields	护盾失效时间	25
+DRS Resource *	DRS资源 *	15
+Duplicate selected to the end	复制所选到末尾	30
+duplicate sRGB information ignored	重复的 sRGB 信息已忽略	35
+Dying 1	死亡1	8
+Dying 2	死亡2	8
+Dying Graphics	死亡图像	15
+Dying Sound	死亡音效	12
+Dying Wave Works Sound	死亡波形音效	23
+Dying Wwise Sound	死亡Wwise音效	18
+Eagle Warriors	雄鹰战士	15
+Early Town Center Limit	早期城镇中心上限	24
+Edit	编辑	5
+Editor Selection Color	编辑选色	23
+EF        	EF旧版    	11
+EF old    	EF旧版    	11
+Effect	效果	7
+Effect attribute 17 changes this
+0   Default
+1+ Use icon from 2nd age etc
+In AoE 1 can be used to set the unit
+have icon graphics of later ages straight in stone age	效果属性 17 会改变此值
+0   默认
+1+ 使用第 2 个时代等的图标
+在帝国时代1中可让单位
+在石器时代就直接拥有后期时代的图标图像	166
+Effect attribute 19 changes this
+0   Shoot where the target is now
+1   Shoot where the target is going to be	效果属性19可改变此项
+0   向目标当前位置射击
+1   向目标将到位置射击	109
+Effect Attributes	效果属性	18
+Effect Commands	效果命令	16
+Effects	效果	8
+Effects: 	效果： 	10
+Elevation Higher Damage	高地伤害加成	24
+Elevation Lower Damage	低地伤害减益	23
+Elevations placed on the map (These are ignored)	地图上放置的高度(忽略)	49
+empty format string not allowed here	此处不允许空格式字符串	37
+Enable A-A Attack for AT-AT	为AT-AT启用对空攻击	28
+Enable Building Conversion	启用建筑招降	27
+Enable Jedi Conversion	启用绝地招降	23
+Enable Monk Conversion	启用僧侣招降	23
+Enable Priest Conversion	启用僧侣招降	25
+Enable PTWC / Kidnap / Loot	启用PTWC/绑架/掠夺	28
+Enable Stealth for Masters	允许主控隐身	27
+Enable tech 	启用科技 	13
+Enabled	启用	8
+Enabled *	启用	10
+Enabling Tech	启用科技	14
+Enemy 	敌人 	7
+Enter a letter to replace the last one with	输入一个字母以替换最后一个字母	44
+Enter new cache size in megabytes	输入新缓存大小(MB)	34
+Enter new multiplier for data box widths	输入数据框宽度新倍率	41
+Enter new scroll rate in pixels. 120 is the most sensitive.	输入新的滚动速率（像素）。120 最灵敏。	60
+Enter new zooming %	输入新缩放 %	20
+Envelope Invite 220 x 220 mm	邀请信封 220 x 220 mm	29
+Error in converting characters: 	字符转换出错：	33
+Error in reading image DIB.	读取图像 DIB 时出错	28
+Error reading SLP files	读取 SLP 文件出错	24
+Error saving backup!	保存备份出错！	21
+Error saving user configuration data.	保存用户配置数据失败。	38
+error writing ancillary chunked compressed data	写入辅助分块压缩数据时出错	48
+Error: 	错误： 	8
+Error: Section pointer differs from stream pos!
+	错误：段指针与流位置不一致！
+	49
+Error: There is already a node with given id!
+	错误：已存在相同 ID 的节点！
+	47
+ERROR: There is no resource section data!
+	错误：没有资源节数据！
+	43
+ES forgot to remove this before AoE was released.
+This points to removed data block
+that was like terrain borders.
+You could build roads back in 1996.	ES 在帝国时代发售前忘了删掉它。
+它指向已移除的数据块，
+相当于地形边界。
+1996 年时你还能修路。	151
+Every civilization has their own unit data, and by default, only non-graphic data changes are copied to other civilizations.	各文明单位数据独立默认只复制非图像数据到其它文明	125
+Example: "tower|ship|ram"
+	示例："tower|ship|ram"
+	27
+Example: Plays when lumberjack drops his wood into TC	例：伐木工将木材卸入城镇中心	54
+Example: Plays when lumberjack starts chopping wood	例：伐木工开始砍树时	52
+exceeds application limits	超出应用程序限制	27
+EXE Path	EXE路径	9
+Execute	执行	8
+Executive, 7 1/4 x 10 1/2 in	行政纸，7 1/4 x 10 1/2 in	29
+Exist	存在	6
+expected hex digit	应为十六进制数字	19
+Explosion	爆炸	10
+exponent overflow	指数溢出	18
+Export frame to PNGs	导出帧为 PNG	21
+Export SLP file with mirrored angles saved in it.
+Remember to set mirroring mode to 0 on the graphic.	导出镜像角度已存入的SLP文件。
+记得把图像的镜像模式设为0。	102
+Extra 1st priority DRS file	额外第一优先级DRS文件	28
+Failed to copy dialog contents to the clipboard.	无法将对话框内容复制到剪贴板。	49
+Failed to create a temporary file name	无法创建临时文件名	39
+Failed to create an anonymous pipe	无法创建匿名管道	35
+Failed to create DDE string	创建 DDE 字符串失败	28
+Failed to create the audio context	无法创建音频上下文	35
+Failed to establish an advise loop with DDE server	无法与 DDE 服务器建立通知环	51
+Failed to get data from the clipboard	无法从剪贴板获取数据	38
+Failed to get the working directory	无法获取工作目录	36
+failed to initialize GDI+, missing gdiplus.dll?	初始化 GDI+ 失败，缺少 gdiplus.dll？	48
+Failed to initialize MS HTML Help.	无法初始化 MS HTML 帮助。	35
+Failed to load 	无法加载 	16
+Failed to load/create objs.csv	加载/创建 objs.csv 失败	31
+Failed to load/create slps.csv	加载/创建 slps.csv 失败	31
+Failed to open FLAC file (failed to read metadata)	无法打开 FLAC 文件（无法读取元数据）	51
+Failed to open sound file "	无法打开音效文件 "	28
+Failed to open temporary file.	无法打开临时文件。	31
+Failed to open the audio device	无法打开音频设备	32
+Failed to open WAV sound file "	无法打开 WAV 音效文件 "	32
+Failed to put data on the clipboard	无法将数据放入剪贴板	36
+failed to register window class?	注册窗口类失败？	33
+Failed to terminate the advise loop with DDE server	无法终止与 DDE 服务器的通知环	52
+Failed to update user configuration file.	更新用户配置文件失败。	42
+Failed to write flac file "	无法写入 flac 文件 "	28
+Failed to write header of WAV sound file "	写入WAV音效文件头失败"	43
+Failed to write ogg/vorbis file "	无法写入 ogg/vorbis 文件 "	34
+Faith Recharging Rate	信仰充能速率	22
+Fambaa Shield Generator Range	Fambaa护盾发生器范围	30
+Fambaa Shields & Flight Animals	凡巴盾兽 飞行动物	32
+Farm Food Amount	农田食物量	17
+Farming Gold Productivity	耕作金币产量	26
+Feitoria Food Productivity	商站食物生产率	27
+Feitoria Gold Productivity	商站金币生产率	27
+Feitoria Stone Productivity	商站石头生产率	28
+Feitoria Wood Productivity	商站木材生产率	27
+Feudal Age	封建时代	11
+Feudal Age Tech ID	封建时代科技 ID	19
+File	文件	5
+File couldn't be loaded.	无法加载文件。	25
+File dialog failed with error code %0lx.	文件对话框失败，错误码%0lx。	41
+File does not exist	文件不存在	20
+File name exists already.	文件名已存在。	26
+File: 	文件: 	7
+Filename	文件名	9
+Files of all Sounds	所有音效文件	20
+Files: 	文件: 	8
+Fill paths from registry	从注册表填充路径	25
+Filter not found	未找到筛选器	17
+Find and replace in document	在文档中查找和替换	29
+Find in document	在文档中查找	17
+Find...	查找...	8
+First Frame	首帧	12
+First page (also second in TC) 1-15
+Second (dock) page 21-35
+Third page same as first (Star Wars)
+First page in AoE/RoR 1-10
+Second page in AoE/RoR 11-20	第一页（征服者中也是第二页）1-15
+第二页（船坞）21-35
+第三页同第一页（星战）
+帝国时代/罗马复兴第一页 1-10
+帝国时代/罗马复兴第二页 11-20	154
+Fish Storage	鱼类储存	13
+Fish Trap Food Amount	渔网食物量	22
+Fishing Productivity	捕鱼生产率	21
+Fishing Ship	渔船	13
+Flank Attack Modifier	侧翼攻击修正	22
+Flat Tile	平坦地块	10
+Flemish Militia Population	佛兰芒民兵人口	27
+Fly Mode	飞模	9
+Fly Mode *	飞模	11
+Fog Visibility	雾可见性	15
+Folwark Building ID	庄园建筑 ID	20
+Folwark Collect Amount	农庄采集量	23
+Folwark Collect Resource Type	农庄收集资源类型	30
+Food generation rate	食物产生率	21
+Food Loot Switch	食物战利品开关	17
+Food Maintenance	食物维持	17
+Food Score	食物分	11
+Food Storage	食物储存	13
+Food Total	食物总量	11
+Food-gathering Productivity	食物采集生产力	28
+For AoK HD paths	用于帝王HD路径	17
+Foraging Wood Productivity	采果木材产量	27
+Force multi-use tech 	强制多用途科技 	22
+Force Recharging Rate	原力充能速率	22
+Force tech 	强制科技 	12
+Forced to use 1
+0   Default
+1   Player
+2   Gaia Player
+3   AI Player	强制为1
+0   默认
+1   玩家
+2   盖亚玩家
+3   AI 玩家	69
+forgot to call SetLength()	忘了调用 SetLength()	27
+forgot to initialize m_pickerStyle?	忘了初始化 m_pickerStyle？	36
+Forgotten + African Kingdoms + Rajas	被遗忘的帝国 + 非洲王朝 + 拉者崛起	37
+Forgotten + African Kingdoms + Rajas > 12	被遗忘的帝国+非洲王朝+拉者崛起>12	42
+format specifier doesn't match argument type	格式符与参数类型不符	45
+Fortress	堡垒	9
+Foundation Destruction Graphic	地基摧毁图像	31
+Foundation Rubble Graphic	地基废墟图像	26
+Foundation Terrain	地基地形	19
+Frame Count	帧数	12
+Frame count mismatch	帧数不匹配	21
+Frame Delay	帧延迟	12
+Frame image filled from PNG	帧图像由 PNG 填充	28
+Frames per Angle	角帧数	17
+Free some &memory	释放&内存	18
+Friendly Fire	友军伤害	14
+Friendly Fire Damage	友军伤害	21
+Friendly fire. Multiplier on the amount of friendly fire this unit receives from area attacks.	友军伤害。此单位受区域攻击友军伤害的倍率。	95
+From Building 	来自建筑 	15
+From four 8 bit integers to one 32 bit integer or vice versa	4个8位整数与1个32位整数互转	61
+Full Tech Mode	全科技	15
+Fuzzy map edges
+% of border area covered with non-base terrain	地图边缘虚化
+非基础地形覆盖边界区域的百分比	63
+Gaia 	盖亚 	6
+Gaia Kill Value	盖亚击杀值	16
+Gaia Razing Value	盖亚摧毁值	18
+Gaia Razings	盖亚摧毁	13
+Gaia Tribute	盖亚进贡	13
+Game Path	游戏路径	10
+gamma table being rebuilt	正在重建伽马表	26
+gamma value does not match sRGB	伽马值与 sRGB 不匹配	32
+gamma value out of range	gamma 值超出范围	25
+Garrison Capacity	驻扎容量	18
+Garrison Firepower	驻扎火力	19
+Garrison Graphic	驻扎图像	17
+Garrison Heal Rate	驻疗速率	19
+Garrison Repair Rate	驻修速率	21
+Garrison Type	可驻类型	14
+Garrison unit	驻扎单位	14
+Gather Accumulator	采集累积器	19
+Gather Group	采集组	13
+Gatherable	可采集	11
+Generic PostScript	通用 PostScript	19
+German Legal Fanfold, 8 1/2 x 13 in	德国法律折叠纸，8 1/2 x 13 in	36
+German Std Fanfold, 8 1/2 x 12 in	德国标准折叠纸, 8 1/2 x 12 in	34
+GetVersionEx() unexpectedly failed	GetVersionEx() 意外失败	35
+Gigantic (	巨型 (	11
+Giving to a villager drop site to cart-like unit
+can allow you to have mobile resource-gatherers,
+similar to those in Age of Mythology.	给类似推车的单位加上村民卸货点，
+就能拥有可移动的资源采集者，
+类似神话时代里的做法。	136
+Gold Counter	黄金计数	13
+Gold Loot Switch	黄金战利品开关	17
+Gold Mining Productivity	采金效率	25
+Gold Score	黄金分	11
+Gold Storage	黄金储存	13
+Gold Total	黄金总量	11
+Goods Loot Switch	货物战利品开关	18
+got exception	发生异常	14
+Graphic Displacement	图像位移	21
+Graphical delay in frames before projectile is shot	射出投射物前的图像延迟帧数	52
+Graphics	图形	9
+Graphics Angle	图像角度	15
+Graphics: 	图形： 	11
+Grass + beach	草+沙滩	14
+Grass + Shore	草地+海岸	14
+Group length per zone	每区域组长度	22
+Gunpowder Units	火药单位	16
+Half of units in group use 1st,
+the rest use 2nd	组内一半单位用第1个，
+其余用第2个	49
+Happy Modding!	改MOD愉快!	15
+Has the Draw Frame changed since terrain was drawn?	地形绘制后绘制帧是否变	52
+Head Unit	头目单位	10
+Heal Bonus	治疗加成	11
+Heal Rate Modifier	治疗速率修正	19
+Healing Range	治疗范围	14
+Healing speed factor of units garrisoned in building	建筑物内驻扎单位的治疗速度系数	53
+Heavy Aircraft	重型飞行器	15
+Heavy Weapons & Med. Mechs	重武器和中型机甲	27
+Help	帮助	5
+Hero Glow Graphic	英雄光辉图像	18
+Hero Mode	英模式	10
+Hide in Editor	编隐藏	15
+Hide in Editor *	编隐藏 *	17
+Higher Elevation Bonus	高海拔加成	23
+Highland (	高地 (	11
+Hill Country (	丘陵地带 (	15
+Hill Mode	丘模式	10
+Hillside Tile E	山坡地块 E	16
+Hillside Tile N	山坡地块 N	16
+Hillside Tile NE	山坡地块 NE	17
+Hillside Tile NW	山坡地块 NW	17
+Hillside Tile S	山坡地块 S	16
+Hillside Tile SE	山坡地块 SE	17
+Hillside Tile SW	山坡地块 西南	17
+Hillside Tile W	山坡地块 W	16
+hIST must be after	hIST 必须在其后	19
+History Totals	历史总计	15
+Hit Mode	击模	9
+Hit Points	生命值	11
+Hit Points Killed	击杀生命值	18
+Hit Points Razed	摧毁生命值	17
+Holding Attribute
+0   Right-click target is defined by the target diplomacy.
+1   Preceding the above, checks if target has more than 0 resource.	持有属性
+0   右键目标由目标外交关系决定。
+1   在以上基础上，检查目标资源是否大于 0。	145
+Holocron Nova Production Rate	全息记录仪新星产率	30
+Holocron Nova Sum	全息新星总计	18
+Holocrons Captured	已夺全息记录仪	19
+Hot Key	热键	8
+Hotkey	热键	7
+Hotkey Action	热键动作	14
+Housed	驻扎	7
+How long the frames are displayed in seconds	帧显示时长的秒数	45
+How many terrain borders are used
+starting from the first border without gaps	使用多少个地形边界
+从第一个边界起连续使用	78
+How many terrains are used
+starting from the first terrain without gaps	使用多少个地形
+从第一个地形起连续使用	72
+HP Drain (%) (time)	生命流失%(时间)	20
+HP Drain (%) (value)	生命流失%(数值)	21
+HP Drain (const) (time)	生命流失(固定)(时间)	24
+HP Drain (const) (value)	生命流失(恒定值)	25
+Hun Wonder Bonus	匈奴奇观加成	17
+Hunted Predator Animals	被猎食肉动物	24
+Hunter Productivity	狩猎生产率	20
+I highly recommend you to download UserPatch
+from xOmicron, if you play The Conquerors.
+With it you can use added civilizations.
+Star Wars versions can already have more civilizations.	如果你玩征服者，强烈建议下载
+xOmicron 的 UserPatch。
+用它就能使用新增文明。
+星战版本身就已支持更多文明。	185
+ICC profile length invalid (not a multiple of 4)	ICC 配置文件长度无效（不是 4 的倍数）	49
+ICC profile tag outside profile	ICC 配置文件标签超出范围	32
+ICO: Error in reading mask DIB.	ICO：读取掩码 DIB 出错。	32
+ICO: Error writing the image file!	ICO：写入图像文件出错！	35
+ICO: Image too tall for an icon.	ICO：图像过高，无法用作图标。	33
+ICO: Image too wide for an icon.	ICO：图像过宽，无法用作图标。	33
+ICO: Invalid icon index.	ICO: 图标索引无效。	25
+Icon	图标	5
+Icon material ID used by the button
+For example having this attribute set to 90 will make the button use the icon with IconAction090 material	按钮所用图标素材 ID
+例如将此属性设为90，按钮就会使用 IconAction090 素材的图标	142
+Icon Set	图标	9
+Idle Attack Graphic	待机攻击图像	20
+If 1, then auto-search for targets	若为1则自动搜索目标	35
+If object has 0 blast radius
+and does not hit the unit it had targeted
+always does half damage	如果爆炸半径为 0
+且没有命中它原先瞄准的单位
+则始终只造成一半伤害	95
+If set to 0 and there is an amount, the amount is required but not paid	设为0且有数量时需数量但不付费	72
+If the value of this dropdown is -1, the task is enabled. If the dropdown is set to a custom resource, the following applies: if the value of this resource is <=0, disable the task, if >0, enable it.	若下拉值为-1则启用任务。若下拉设为自定义资源，则：资源值<=0禁用，>0启用。	200
+If used, should be 	若使用，应为 	20
+If you write to the latest file (x1/p1),
+you only need to distribute that file,
+but your edits will not affect the vanilla game	如果写入最新文件（x1/p1），
+只需分发该文件，
+但你的改动不会影响原版游戏	128
+ignored in grayscale PNG	灰度 PNG 中已忽略	25
+Ignoring invalid time value	忽略无效的时间值	28
+illegal leading surrogate	非法前导代理项	26
+illegal trailing surrogate	非法的尾随代理项	27
+Image and mask have different sizes.	图像与遮罩尺寸不一致。	37
+image dimension too large	图像尺寸过大	26
+Image height is zero in IHDR	IHDR 中图像高度为零	29
+Image width is zero in IHDR	IHDR 中图像宽度为零	28
+Impassable Terrain	不可通行地形	19
+Imperial Age	帝王时代	13
+Imperial Age Tech ID	帝王时代科技 ID	21
+Import delta change list	导入增量表	25
+Import Deltas	导入增量	14
+Import PNGs to frame	导入 PNG 到帧	21
+Impossible to create a rich edit control, using simple text control instead. Please reinstall riched32.dll	无法创建富文本编辑控件，改用简单文本控件。请重装riched32.dll	107
+In order to edit language entries, check write language files in the open files dialog and reopen them.	要编辑语言条目，请在打开文件对话框中勾选写入语言文件并重新打开。	104
+In the file this is
+right after civilizations and
+before techs	在文件中它位于
+文明之后、
+科技之前	63
+In the file this is
+right after techs and
+before technology trees	在文件中它位于
+科技之后、
+科技树之前	66
+in use by IDAT	被 IDAT 占用	15
+Including graphics	含图像	19
+incomplete JSON	JSON 不完整	16
+incomplete list of spline points?	样条点列表不完整？	34
+inconsistent chromaticities	色度不一致	28
+inconsistent rendering intents	渲染意图不一致	31
+Incorrect batch script!	批处理脚本有误！	24
+incorrect byte-order specifier	字节序说明符不正确	31
+Incorrect input!	输入不正确！	17
+Index of the main color palette	主调色板的索引	32
+Infantry	步兵	9
+Infantry Kill Reward	步兵击杀奖励	21
+Initial Resources	初始资源	18
+Initialization failed in post init, aborting.	后期初始化失败，正在中止。	46
+Inland (	内陆（	9
+Ins Copies	插入份	11
+Ins New	插入	8
+Insert New	插入新	11
+Insufficient memory for pCAL params	pCAL 参数内存不足	36
+Insufficient memory for pCAL purpose	pCAL 用途信息内存不足	37
+Insufficient memory for pCAL units	pCAL 单位内存不足	35
+insufficient memory to read chunk	内存不足，无法读取数据块	34
+intent outside defined range	意图超出定义范围	29
+Interaction Mode	交互模式	17
+Interface Kind	界面类型	15
+Interface/Paste11	界面/粘贴11	18
+Interface/Reselection	界面/重选	22
+Interface/Zooming	界面/缩放	18
+internal error handling cHRM->XYZ	处理 cHRM->XYZ 时发生内部错误	34
+internal error: array alloc	内部错误：数组分配	28
+internal error: array realloc	内部错误：数组重分配	30
+Internal Name	内部名称	14
+Internal Name 2	名称2	16
+internal row logic error	内部行逻辑错误	25
+internal row size calculation error	内部行大小计算错误	36
+internal row width error	内部行宽错误	25
+internal sequential row size calculation error	内部顺序行尺寸计算错误	47
+internal write transform logic error	内部写入变换逻辑错误	37
+Interrupt Frame	中断帧数	16
+Interrupt Frame. Frame in the attack animation in which the unit is allowed to chase or reset during volley attacks.	中断帧。齐射攻击时允许单位追击或重置的攻击动画帧。	117
+Invalid attempt to read row data	无效的读取行数据操作	33
+invalid background gamma type	背景伽马类型无效	30
+Invalid background palette index	背景调色板索引无效	33
+Invalid bit depth for grayscale image	灰度图像的位深无效	38
+Invalid bit depth for grayscale+alpha image	灰度+Alpha 图像的位深无效	44
+Invalid bit depth for paletted image	调色板图像的位深无效	37
+Invalid bit depth for RGB image	RGB 图像的位深无效	32
+Invalid bit depth for RGBA image	RGBA 图像的位深无效	33
+Invalid bit depth in IHDR	IHDR 中位深无效	26
+invalid bit length repeat	位长重复无效	26
+invalid block type	无效块类型	19
+invalid chunk type	无效区块类型	19
+invalid code -- missing end-of-block	代码无效：缺少块结束标记	37
+invalid code lengths set	无效的代码长度集	25
+invalid color	颜色无效	14
+Invalid color type in IHDR	IHDR 中颜色类型无效	27
+Invalid color type/bit depth combination in IHDR	IHDR 中颜色类型/位深组合无效	49
+invalid compression buffer size	压缩缓冲区大小无效	32
+Invalid compression type specified	指定的压缩类型无效	35
+invalid data	数据无效	13
+Invalid delta sprite ID	增量精灵 ID 无效	24
+invalid direction	无效方向	18
+invalid distance too far back	回溯距离过大	30
+invalid embedded Abstract ICC profile	内嵌的抽象 ICC 配置文件无效	38
+Invalid entry!	无效输入!	15
+Invalid filter method in IHDR	IHDR 中的过滤方法无效	30
+Invalid filter type specified	指定的过滤类型无效	30
+invalid font	字体无效	13
+Invalid format for pCAL parameter	pCAL 参数格式无效	34
+invalid gray level	无效灰度级	19
+invalid growable column index	可增长列索引无效	30
+invalid growable row index	可增长行索引无效	27
+invalid hash bucket count	哈希桶计数无效	26
+invalid ICC profile color space	ICC 配置文件色彩空间无效	32
+invalid IDs range: lower bound > upper bound	ID 范围无效：下限大于上限	45
+Invalid IHDR data	IHDR 数据无效	18
+invalid image alignment	图像对齐无效	24
+Invalid image color type specified	指定的图像颜色类型无效	35
+Invalid image height in IHDR	IHDR 中图像高度无效	29
+invalid image list	无效图像列表	19
+Invalid image width in IHDR	IHDR 中图像宽度无效	28
+invalid index	索引无效	14
+Invalid initial selection	初始选择无效	26
+Invalid interlace type specified	指定的交错类型无效	33
+invalid internal data pointer?	内部数据指针无效？	31
+invalid length	长度无效	15
+invalid literal/length code	无效的字面值/长度编码	28
+invalid literal/lengths set	无效的字面值/长度集合	28
+Invalid markup	标记无效	15
+invalid message box return value	消息框返回值无效	33
+invalid month	月份无效	14
+invalid multibyte character	无效的多字节字符	28
+Invalid negative precision	无效的负精度	27
+Invalid number of colors in palette	调色板中的颜色数无效	36
+Invalid number of histogram entries specified	指定的直方图条目数量无效	46
+Invalid number of transparent colors specified	指定的透明色数量无效	47
+Invalid offset X	X 偏移无效	17
+Invalid offset Y	Y 偏移无效	17
+Invalid palette	无效调色板	16
+Invalid palette size, hIST allocation skipped	调色板大小无效，跳过 hIST 分配	46
+Invalid parameters	参数无效	19
+Invalid pCAL equation type	无效的 pCAL 方程类型	27
+Invalid pCAL parameter count	pCAL 参数数量无效	29
+invalid rendering intent	渲染意图无效	25
+invalid row index	无效行索引	18
+Invalid sBIT depth specified	指定的 sBIT 深度无效	29
+Invalid sCAL unit	sCAL 单位无效	18
+Invalid sCAL width	sCAL 宽度无效	19
+invalid signature	签名无效	18
+Invalid signature (corrupt file?)	签名无效（文件已损坏？）	34
+invalid sizer item	无效的布局项	19
+Invalid sprite delta data	精灵增量数据无效	26
+invalid sRGB rendering intent	sRGB 渲染意图无效	30
+invalid status bar field index	状态栏字段索引无效	31
+invalid statusbar field index	状态栏字段索引无效	30
+invalid stored block lengths	存储块长度无效	29
+Invalid time specified for tIME chunk	tIME 数据块指定的时间无效	38
+invalid unit	单位无效	13
+invalid user transform pixel depth	用户变换的像素位深无效	35
+invalid values	数值无效	15
+invalid window size (libpng)	窗口尺寸无效（libpng）	29
+invalid with alpha channel	alpha 通道无效	27
+Invulnerability Level	无敌等级	22
+Iron Age	铁器时代	9
+Iron Age Tech ID	铁器时代科技ID	17
+Is Default *	默认 *	13
+Is overwritten	已覆盖	15
+It is safer to copy automatically than manually.	自动复制比手动更安全	49
+Italy Envelope, 110 x 230 mm	意大利信封，110 x 230 mm	29
+iTXt: invalid compression	iTXt: 压缩方式无效	26
+iTXt: uncompressed text too long	iTXt：未压缩文本过长	33
+Japanese Envelope Chou #3	日式信封 长形 3 号	26
+Japanese Envelope Chou #3 Rotated	日式信封 长形3号 横置	34
+Japanese Envelope Chou #4	日式信封 长形 4 号	26
+Japanese Envelope Chou #4 Rotated	日式信封 长形4号 横置	34
+Japanese Envelope Kaku #2	日式信封 角形 2 号	26
+Japanese Envelope Kaku #2 Rotated	日式信封 角形2号 横置	34
+Japanese Envelope Kaku #3	日式信封 角形 3 号	26
+Japanese Envelope Kaku #3 Rotated	日式信封 角形3号 横置	34
+Japanese Envelope You #4	日式信封 洋形 4 号	25
+Japanese Envelope You #4 Rotated	日式信封 洋形4号 横置	33
+Japanese Postcard 100 x 148 mm	日式明信片 100 x 148 mm	31
+Jedi	绝地	5
+Jedi & Bounty Hunters	绝地 & 赏金猎人	22
+Jump to	跳至	8
+Keep view on &top	视图保持&置顶	18
+key too large	键名过大	14
+keyboard key	键盘按键	13
+keyword "@1": bad character '0x@2'	关键字 "@1"：无效字符 '0x@2'	35
+keyword truncated	关键字被截断	18
+Kidnap Storage	绑架存储	15
+Kill Ratio	击杀比	11
+Killed by Others	被他人击杀	17
+Killed Gaia	击杀盖亚	12
+Killed P1	击杀P1	10
+Killed P2	击杀P2	10
+Killed P3	击杀P3	10
+Killed P4	击杀P4	10
+Killed P5	击杀P5	10
+Killed P6	击杀P6	10
+Killed P7	击杀P7	10
+Killed P8	击杀P8	10
+Kills by Gaia	盖亚击杀数	14
+Kills by P1	P1 击杀数	12
+Kills by P2	P2 击杀数	12
+Kills by P3	P3 击杀数	12
+Kills by P4	P4 击杀数	12
+Kills by P5	P5 击杀数	12
+Kills by P6	P6 击杀数	12
+Kills by P7	P7 击杀数	12
+Kills by P8	P8 击杀数	12
+known incorrect sRGB profile	已知不正确的 sRGB 配置	29
+labels without ellipsis shouldn't use accelerators	不带省略号的标签不应使用加速键	51
+Land	陆地	5
+Land 	陆地	6
+Land + [1 Wheel Tracks]	陆地 + [1 轮辙]	24
+Land + [Ski Speeder Plumes]	陆地 + [滑雪飞车尾迹]	28
+Land + beach	陆+沙滩	13
+Land + shallows	陆+浅滩	16
+Land + Shore, Bridge, [2 Wheel Tracks]	陆地海岸桥[双轮辙]	39
+Land + Shore, Bridge, [AT-AT Steps]	陆+岸、桥、[AT-AT阶]	36
+Land + Shore, Bridge, [AT-ST Steps]	陆+岸、桥、[AT-ST阶]	36
+Land + Shore, Bridge, [Big Steps]	陆地海岸桥[大台阶]	34
+Land + Shore, Bridge, [Medium Steps]	陆地海岸桥[中台阶]	37
+Land + Shore, Bridge, [No Steps]	陆地海岸桥[无台阶]	33
+Land + Unbuildable	陆+不可建	19
+Land + water	陆+水	13
+Land - dirt	陆-泥地	12
+Land - farm	陆-农田	12
+Land - Ice	陆 - 冰	11
+Land - Shore	陆 - 岸	13
+Land - Water, Lava	陆 - 水、岩浆	19
+Land - Water, Lava, Farm	陆 - 水、岩浆、农田	25
+Land - Water, Lava, Farm, Path	陆 - 水、岩浆、农田、道路	31
+Land Placement Edge	陆地放置边缘	20
+Land, damage 20 %	陆地,伤害20%	18
+Lang File Name	语言文件名	15
+Lang Help	语言帮助	10
+Lang ID * 	语言 ID * 	11
+Lang Tech Tree	语言科技树	15
+Language File Creation	语言创建	23
+Language File Help	语言帮助	19
+Language File Hot Key Text	语言热键文本	27
+Language file location:	语言文件位置：	24
+Language File Name	语言文件名	19
+Language Files	语言文件	15
+Language help text in file
+Hit enter to get the correction into dat file	文件中的语言帮助文本
+按回车把修正写入 dat 文件	73
+Language hotkey text in file
+Hit enter to get the correction into dat file	文件中的语言热键文本
+按回车把修正写入 dat 文件	75
+Language p1 file location:	语言p1文件位置：	27
+Language popup text in file
+Hit enter to get the correction into dat file	文件中的语言弹窗文本
+按回车把修正写入 dat 文件	74
+Language x1 file location:	语言x1文件位置：	27
+Large Islands (	大岛 (	16
+Last	末项	5
+Last time animation frame was changed	上次动画帧变更时间	38
+Layer	图层	6
+Left/Right distance	左右距离	20
+Legal Extra 9 1/2 x 15 in	Legal 加长 9 1/2 x 15 in	26
+Leitis Attack	列提斯攻击	14
+length does not match profile	长度与配置文件不符	30
+length exceeds PNG maximum	长度超出 PNG 上限	27
+Letter Extra 9 1/2 x 12 in	信纸加长 9 1/2 x 12 in	27
+Letter Plus 8 1/2 x 12.69 in	信纸 Plus 8 1/2 x 12.69 in	29
+Letter Rotated 11 x 8 1/2 in	信纸 旋转 11 x 8 1/2 in	29
+Letter Small, 8 1/2 x 11 in	信纸小号，8 1/2 x 11 in	28
+Letter Transverse 8 1/2 x 11 in	信纸 横向 8 1/2 x 11 in	32
+Libraries used:
+wxWidgets - wxWindows Library Licence, Version 3.1, 2005
+boost - Boost Software License, Version 1.0, 17 August 2003
+Simple and Fast Multimedia Library - zlib/libpng License
+Open Audio Library - GNU Library General Public License, Version 2, June 1991
+libiconv - GNU General Public License, Version 3, 29 June 2007
+lz4 - BSD 2-Clause License	使用的库：
+wxWidgets - wxWindows 库许可证，版本 3.1，2005
+boost - Boost 软件许可证，版本 1.0，2003 年 8 月 17 日
+Simple and Fast Multimedia Library - zlib/libpng 许可证
+Open Audio Library - GNU 宽通用公共许可证，版本 2，1991 年 6 月
+libiconv - GNU 通用公共许可证，版本 3，2007 年 6 月 29 日
+lz4 - BSD 2 条款许可证	358
+Light Aircraft	轻型飞行器	15
+Line Mode	线模式	10
+Line of Sight	视野	14
+List	列表	5
+list too long	列表过长	14
+Livestock Food Productivity	牲畜食物生产率	28
+Location in Age	时代中位置	16
+Location to research from	研究来源位置	26
+logic error	逻辑错误	12
+Long Tooltip	长提示	13
+Look at some graphic	请查看某个图形	21
+Loop	循环	5
+Looting Table	战利品表	14
+Lower Elevation Bonus	低海拔加成	22
+Mainly used in trigger conditions
+0   None
+1   Base
+2   Building
+3   Civilian
+4   Soldier
+5   Priest
+	主要用于触发条件
+0   无
+1   基础
+2   建筑
+3   平民
+4   士兵
+5   僧侣
+	102
+Makes available
+Used by buildings, which need a technology to be available	使其可用
+用于需要科技才可用的建筑	75
+Makes available
+Used by units, which need a technology to be available	使其可用
+用于需要科技才可用的单位	71
+Makes it slower	使其更慢	16
+Manual unit copy	手动复制单位	17
+Map 	地图	5
+Map (	地图(	6
+Map Edge Buffer	地图边缘缓冲	16
+map/set too long	映射/集合过长	17
+Maps	地图	5
+Masters Can See Hidden Units	主控可见隐藏单位	29
+Matt      	马特      	11
+Max Charge	蓄力	11
+Max Conversion Time Mod	最大招降时间修正	24
+Max distance from the center of the group	距组中心最大距离	42
+Max Force After Conversion	招降后最大兵力	27
+Max randomness in the number of units per group	每组单位数的最大随机	48
+Max Range	大射程	10
+Max Total Projectiles	最大投射物总数	22
+Maximum (effective) value is 20	最大(有效)值为20	32
+Maximum conversion time	最长转化时间	24
+Meaning that every search entry has to match.
+	即每条搜索项都必须匹配。
+	47
+Meat Storage	肉类储存	13
+Medic Healing Rate	医疗治疗速率	19
+Meditation	冥想	11
+Mediterranean (	地中海 (	16
+Memory allocation failed while processing sCAL	处理 sCAL 时内存分配失败	47
+menus attached to menu bar can't have invoking window	菜单栏上的菜单不能有调用窗口	54
+Mercenary Kipchak Count	雇佣钦察数量	24
+Mercenary Kipchak Limit	雇佣钦察上限	24
+Merge shadow from 2 to 1	阴影从 2 合并至 1	25
+Merged SLP files	已合并 SLP 文件	17
+Message	消息	8
+Mike      	迈克      	11
+Military Can Convert	军事可招降	21
+Military Conversion Chance	军事招降概率	27
+Military Conversion Range	军事招降范围	26
+Military Conversion Recharge Rate	军事招降充能速率	34
+Military Population	军事人口	20
+Min Collision Size Multiplier	最小碰撞尺寸倍率	30
+Min Conversion Time Mod	最小招降时间修正	24
+Min Range	小射程	10
+Min Tech Level	最低时代	15
+Min. Req. Techs	最低需求科技	16
+Minimap Color	地图色	14
+Minimap Mode	地图模式	13
+Minimap modes 3 and 4 allow this to work	小地图模式3和4下生效	41
+Minimum distance to another terrain	与其它地形的最小距离	36
+Mirroring Mode	镜像模式	15
+Misc Counter 1	杂项计数1	15
+Misc Counter 2	杂项计数2	15
+Misc Counter 3	杂项计数3	15
+Misc Counter 4	杂项计数4	15
+Misc Counter 5	杂项计数5	15
+missing IHDR	缺少 IHDR	13
+Missing IHDR before IDAT	IDAT 前缺少 IHDR	25
+Missing PLTE before IDAT	IDAT 前缺少 PLTE	25
+MNG features are not allowed in a PNG datastream	PNG 数据流中不允许使用 MNG 特性	49
+Mod: Expanding Fronts (1.3 - 1.4) / Terrain patch	MOD：扩展前线(1.3-1.4)/地形补丁	50
+Mod: Expanding Fronts (>= 1.4.1) / Terrain + tech tree patch	MOD：扩展前线(>=1.4.1)/地形+科技树补丁	61
+Mode 	模式 	6
+Modifier to the maximum time it can take to convert this unit.	招降该单位最长时间的修正值。	63
+Modifier to the minimum time it can take to convert this unit.	招降该单位最短时间的修正值。	63
+Modifier to the overall chance it takes to convert this unit.	招降该单位总体成功几率的修正值。	62
+Modify tech 	修改科技 	13
+Monarch Envelope, 3 7/8 x 7 1/2 in	Monarch 信封，3 7/8 x 7 1/2 in	35
+Monument Food Productivity	纪念碑食物生产率	27
+Monument Gold Productivity	纪念碑金币生产率	27
+Monument Stone Productivity	纪念碑石头生产率	28
+Monument Wood Productivity	纪念碑木材生产率	27
+Monuments Captured	夺取纪念碑	19
+Mounted Troopers	骑乘士兵	17
+Move	移动	5
+Move Algorithm	移动算法	15
+Move Down	下移	10
+Move re-drawer on deltas to the end	重绘器移到增量末尾	36
+Move Sound	移动音效	11
+Move Up	上移	8
+Move Wave Works Sound	移动波形音效	22
+MS HTML Help functions are unavailable because the MS HTML Help library is not installed on this machine. Please install it.	本机未安装MS HTML Help库，MS HTML帮助功能不可用。请安装该库。	125
+Multiple Attribute Mode	多属性模式	24
+Multiplies the speed of the unit this graphic is applied to	乘以此图像单位的移动速度	60
+Multiply 	乘以 	10
+Multiply resource 	乘以资源 	19
+must be overridden if it is called	若被调用则必须重写	35
+must create the image before setting its type	必须先创建图像再设置其类型	46
+must have a valid window	必须有有效窗口	25
+Must have a valid window	必须有有效窗口	25
+must have some available scales	必须要有可用的刻度	32
+Must set normal bitmap with the new size first	必须先按新尺寸设置普通位图	47
+Must use valid index here (not -1)	此处须用有效索引(非-1)	35
+Name String	名称字符串	12
+Narrows (	海峡 (	10
+need an object to post event to	需要对象才能投递事件	32
+Needs to be 0, do not touch	必须为 0，请勿修改	28
+Network	网络	8
+Neutral 	中立 	9
+Never hide &attributes	从不隐藏&属性	23
+Never hide attributes	从不隐藏属性	22
+New Building	新建筑	13
+New Effect	新效果	11
+New Graphic	新图形	12
+New Speed	新速度	10
+New Tech	新科技	9
+New Technology	新科技	15
+New Terrain	新地形	12
+New Unit	新单位	9
+No	否	3
+No 	否	4
+No 8-bit frame support yet	尚不支持 8 位帧	27
+No access to bitmap data	无法访问位图数据	25
+No access to bitmap mask data	无法访问位图遮罩数据	30
+No application object! Cannot process pending events!	无应用程序对象！无法处理待处理事件！	54
+No application object! Cannot queue this event!	无应用程序对象！无法排队此事件！	48
+No ArC	无ArC	7
+No AtC	无AtC	7
+No Attribute/Invalid Attribute	无属性/无效属性	31
+No Class/Invalid Class	无类别/无效类别	23
+No CT	无CT	6
+no DDE error.	无DDE错误。	14
+No DGD	无DGD	7
+No error message. Did you initialize the error?	没有错误消息。是否已初始化错误？	48
+No file 	无文件 	9
+No frames	无帧	10
+No graphic 	无图像 	12
+No icon	无图标	8
+No IDATs written into file	文件中未写入 IDAT	27
+No layers	无图层	10
+No palettes loaded	未加载调色板	19
+No profile for iCCP chunk	iCCP 块无配置文件	26
+No R	无R	5
+no random access	不支持随机访问	17
+no read access	无读取权限	15
+No registry entry found.	未找到注册表项。	25
+No Restriction	无限制	15
+No SLP	无SLP	7
+No SLP filename	无 SLP 文件名	16
+No SLP frame 	无SLP帧 	14
+No SLP to save	无 SLP 可保存	15
+No space in chunk cache for sPLT	数据块缓存中无空间存放 sPLT	33
+No sprite 	无精灵 	11
+No sprite to load	无精灵可加载	18
+No sprites associated with 	没有精灵关联 	28
+No such sound	无此音效	14
+No TD	无TD	6
+No tech	无科技	8
+No Type/Invalid Type	无类型/类型无效	21
+No type/Invalid type	无类型/无效类型	21
+No unit	无单位	8
+no write access	无写入权限	16
+Non-base terrain (like river) space between players.
+If too large, they won't be created.	玩家之间的非基础地形（如河流）间距。
+太大的话就不会生成。	90
+non-positive width	宽度非正	19
+Non-Tech	非科技	9
+None	无	5
+None      	无	11
+Nonexistent	不存在	12
+Nonexistent Building	建筑不存在	21
+Nonexistent Technology	科技不存在	23
+Nonexistent Terrain	地形不存在	20
+Nonexistent Unit	不存在的单位	17
+not a number	不是数字	13
+Not a PNG file	非 PNG 文件	15
+not saved	未保存	10
+Not scanned but set to 0
+Can change during gameplay
+Mostly for different game modes and disables defined in scenarios
+0   Default
+1   Prevents enabling/disabling with a tech	未扫描但设为0
+可在游戏过程中改变
+多用于不同游戏模式以及场景中定义禁用
+0   默认
+1   防止用科技启用/禁用	174
+Not supported: There are no resources in dll file	不支持：DLL 文件中没有资源	50
+Nothing	无	8
+Notice	提示	7
+Nova generation rate (large)	新星产生率(大)	29
+Nova generation rate (small)	新星产生率(小)	29
+Nova Mining Productivity	新星采矿生产力	25
+Nova Score	新星得分	11
+Nova Storage	诺瓦储存	13
+Nova Total	诺瓦总计	11
+NULL event can't be posted	无法投递 NULL 事件	27
+NULL filter	过滤器为空	12
+NULL pointer to spline points?	指向样条点的空指针？	31
+NULL row buffer	行缓冲区为空	16
+NULL tool in the tools list?	工具列表中有 NULL？	29
+Number of frames to animate through	动画播放的帧数	36
+Number of frames to pause animation after last frame is drawn	最后一帧绘制后暂停动画的帧数	62
+Number of total unit/tech groups	单位/科技组总数	33
+number too large	数值过大	17
+Object Cost Sum	物体总价	16
+object too large	对象过大	17
+Obsolete Variables	废弃变量	19
+Obstruction Class	阻挡类别	18
+Obstruction Type	阻挡类型	17
+Occlusion Mode	遮挡模式	15
+Old Color Flag	旧色标志	15
+Old Editor Flag	旧编辑标志	16
+Old Overlay	旧覆盖层	12
+Old virt size: 0x%x, raw size: 0x%x
+	原虚拟大小：0x%x，原始大小：0x%x
+	37
+one of these flags	须为以下标志之一	19
+Only affects graphics of the projectile
+0   Stops graphics at target
+1   Graphics pass through the target instead of stopping	只影响投射物的图像
+0   命中目标后图像停止
+1   图像穿过目标而不停止	126
+Only Medium Water	仅中水	18
+Only Red Desert	仅红沙漠	16
+only separators can be stretchable	只有分隔符可伸缩	35
+Only Volcanic Rock	仅火山岩	19
+Only Water	仅水域	11
+Only water + ice	仅水+冰	17
+Only with trail mode 2	仅轨迹模式2下	23
+Oops!	错误	6
+Open	打开	5
+Open an existing document	打开已有文档	26
+Open files	打开文件	11
+Open multiple editors to easily copy between files and game versions
+Use the normal copy and paste buttons
+4 windows seem to be the maximum	多开编辑器，便于在文件与游戏版本间复制
+用普通复制粘贴按钮
+最多约开4个窗口	140
+Open palette configuration file	打开调色板配置文件	32
+Open palette file	打开调色板文件	18
+Open sprite change list	打开精灵更换列表	24
+Open...	打开...	8
+Operation not permitted.	操作不被允许。	25
+Ore generation rate	矿石产生率	20
+Ore Loot Switch	矿石战利品开关	16
+Ore Mining Productivity	采石效率	24
+Ore Score	矿石分	10
+Ore Storage	矿石储存	12
+Ore Total	矿石总量	10
+Ouch!	糟糕	6
+Out of memory	内存不足	14
+out of memory	内存不足	14
+out of place	位置错误	13
+out of range	超出范围	13
+Outline	轮廓	8
+output pointers can't be NULL	输出指针不能为 NULL	30
+Overlay Mask	覆盖遮罩	13
+Own Master Objects 	自身主体对象 	20
+Owner Type
+Determines what you can select as targets
+0, 7+ All objects
+1   Your objects only
+2   Neutral and enemy objects only
+3   Gaia only
+4   Gaia, your and ally objects only
+5   Gaia, neutral and enemy objects only
+6   All but your objects	归属类型
+决定你能把什么选为目标
+0, 7+ 所有物件
+1   仅你的物件
+2   仅中立和敌方物件
+3   仅盖亚
+4   仅盖亚、你和盟友的物件
+5   仅盖亚、中立和敌方物件
+6   除你的物件外全部	245
+P1 Kill Value	P1 击杀值	14
+P1 Razing Value	P1 拆毁值	16
+P1 Razings	P1 毁坏	11
+P1 Tribute	P1 进贡	11
+P2 Kill Value	P2 击杀值	14
+P2 Razing Value	P2 拆毁值	16
+P2 Razings	P2 毁坏	11
+P2 Tribute	P2 进贡	11
+P3 Kill Value	P3 击杀值	14
+P3 Razing Value	P3 拆毁值	16
+P3 Razings	P3 毁坏	11
+P3 Tribute	P3 进贡	11
+P4 Kill Value	P4 击杀值	14
+P4 Razing Value	P4 拆毁值	16
+P4 Razings	P4 毁坏	11
+P4 Tribute	P4 进贡	11
+P5 Kill Value	P5 击杀值	14
+P5 Razing Value	P5 拆毁值	16
+P5 Razings	P5 毁坏	11
+P5 Tribute	P5 进贡	11
+P6 Kill Value	P6 击杀值	14
+P6 Razing Value	P6 拆毁值	16
+P6 Razings	P6 毁坏	11
+P6 Tribute	P6 进贡	11
+P7 Kill Value	P7 击杀值	14
+P7 Razing Value	P7 拆毁值	16
+P7 Razings	P7 毁坏	11
+P7 Tribute	P7 进贡	11
+P8 Kill Value	P8 击杀值	14
+P8 Razing Value	P8 拆毁值	16
+P8 Razings	P8 毁坏	11
+P8 Tribute	P8 进贡	11
+Paid	付费	5
+Palette (*.pal)|*.pal	调色板(*.pal)|*.pal	22
+Palette files (*.pal)|*.pal	调色板文件 (*.pal)|*.pal	28
+Particle effect files (*.json)|*.json	粒子效果文件 (*.json)|*.json	38
+Particle Effect Name	粒子效果名	21
+Passable Terrain	可通行地形	17
+past-the-end token not supported	不支持 past-the-end 标记	33
+Paste	粘贴	6
+Paste selection	粘贴所选	16
+Path for custom names *	自定义名称路径 *	24
+Path for DRS files *	DRS文件路径 *	21
+Path for loose SLP files	独立SLP文件路径	25
+Path for mod DRS files	MOD的DRS文件路径	23
+Path for mod SLP files	MOD的SLP文件路径	23
+Path for palette configuration *	调色板配置路径 *	33
+Path for player color palette *	玩家颜色调色板路径 *	32
+Path to the folder containing all drs files/folders	包含所有drs文件/文件夹的路径	52
+PCS illuminant is not D50	PCS 光源不是 D50	26
+Phantom Variable	幻影变量	17
+Pile Unit	堆叠单位	10
+Pit Pair Tile E	成对坑地块 E	16
+Pit Pair Tile N	成对坑地块 N	16
+Pit Pair Tile S	成对坑地块 S	16
+Pit Pair Tile W	成对坑地块 W	16
+Pit Tile E	坑地块 E	11
+Pit Tile N	坑地块 N	11
+Pit Tile S	坑地块 S	11
+Pit Tile W	坑地块 W	11
+Placement Side Terrain x2	放置侧地形x2	26
+Placement Terrain x2	可放置地形x2	21
+Plain	平原	6
+Play Sounds	播放音效	12
+Play WAV	播音	9
+Player Color Forcer	玩家色强制	20
+Player Colors	玩家颜色	14
+PlayerColours: 	玩家颜色：	16
+Please enter a number from -2 147 483 648 to 2 147 483 647	请输入 -2 147 483 648 到 2 147 483 647 之间的数	59
+Please enter a number from -32 768 to 32 767	请输入 -32 768 到 32 767 之间的数字	45
+Please enter a number from 0 to 	请输入 0 到 	33
+Please enter a number from 0 to 255	请输入 0 到 255 之间的数字	36
+Please enter a number from 0 to 4 294 967 295	请输入 0 到 4 294 967 295 之间的数字	46
+Please enter a valid floating point number	请输入有效的浮点数	43
+Please restart me!	请重启我！	19
+Please select All civs from the bottom!	请在底部选择所有文明！	40
+Please wait while printing...	正在打印，请稍候...	30
+PNG unsigned integer out of range	PNG 无符号整数超出范围	34
+png_set_sPLT: invalid sPLT	png_set_sPLT：无效的 sPLT	27
+Pointer	指针	8
+Population Headroom	人口余量	20
+Portrait Picture	头像图片	17
+Possible values: 0, 1 and as boolean
+AoE2DE: 2 Show in others tab in scenario editor	可取 0、1，按布尔值处理
+帝国2决定版：2 在场景编辑器的其它标签页中显示	85
+Post-Imperial Age	后帝王时代	18
+Post-Iron Age	铁器时代后	14
+Power Core Range	能量核心射程	17
+Power Core Shielding	能量核心护盾	21
+PRC 32K(Big) 97 x 151 mm	PRC 32K(大) 97 x 151 mm	25
+PRC Envelope #1 102 x 165 mm	PRC 信封 #1 102 x 165 mm	29
+PRC Envelope #1 Rotated 165 x 102 mm	PRC 信封 #1 旋转 165 x 102 mm	37
+PRC Envelope #10 324 x 458 mm	PRC 信封 #10 324 x 458 mm	30
+PRC Envelope #2 102 x 176 mm	PRC 信封 #2 102 x 176 mm	29
+PRC Envelope #2 Rotated 176 x 102 mm	PRC 信封 #2 旋转 176 x 102 mm	37
+PRC Envelope #3 125 x 176 mm	PRC 信封 #3 125 x 176 mm	29
+PRC Envelope #3 Rotated 176 x 125 mm	PRC 信封 #3 旋转 176 x 125 mm	37
+PRC Envelope #4 110 x 208 mm	PRC 信封 #4 110 x 208 mm	29
+PRC Envelope #4 Rotated 208 x 110 mm	PRC 信封 #4 旋转 208 x 110 mm	37
+PRC Envelope #5 110 x 220 mm	PRC 信封 #5 110 x 220 mm	29
+PRC Envelope #5 Rotated 220 x 110 mm	PRC 信封 #5 旋转 220 x 110 mm	37
+PRC Envelope #6 120 x 230 mm	PRC 信封 #6 120 x 230 mm	29
+PRC Envelope #6 Rotated 230 x 120 mm	PRC 信封 #6 旋转 230 x 120 mm	37
+PRC Envelope #7 160 x 230 mm	PRC 信封 #7 160 x 230 mm	29
+PRC Envelope #7 Rotated 230 x 160 mm	PRC 信封 #7 旋转 230 x 160 mm	37
+PRC Envelope #8 120 x 309 mm	PRC 信封 #8 120 x 309 mm	29
+PRC Envelope #8 Rotated 309 x 120 mm	PRC 信封 #8 旋转 309 x 120 mm	37
+PRC Envelope #9 229 x 324 mm	PRC 信封 #9 229 x 324 mm	29
+PRC Envelope #9 Rotated 324 x 229 mm	PRC 信封 #9 旋转 324 x 229 mm	37
+Predator Animals	掠食动物	17
+Preferences	首选项	12
+Preserve Actions 	保留动作 	18
+Priests	僧侣	8
+Print previe&w...	打印预览&w...	18
+Print preview...	打印预览...	17
+Print...	打印...	9
+Printing Error	打印错误	15
+Probability	概率	12
+Proceed	进行	8
+profile matches sRGB but writing iCCP instead	配置文件符合 sRGB，改写为 iCCP	46
+Progress:	进度：	10
+Projectile Arc	投射弧	15
+Projectile Spawning Area	投射生成区域	25
+Projectile Type	投射物类型	16
+Projectile Unit	投射物单位	16
+Projectiles	投射物	12
+Properties	属性	11
+Pummels & Cannons	拍车和炮	18
+PushEventHandler(NULL) called	调用了PushEventHandler(NULL)	30
+Queued Units	队列单位	13
+Quit	退出	5
+Quit this program	退出本程序	18
+Raiding Productivity	掠夺生产率	21
+Rams & Trebuchet	攻城槌和投石机	17
+Rams & Trebuchet & Siege Towers	攻城槌 投石机 攻城塔	32
+Random	随机	7
+Random Map Scripts (Required in AoE/RoR)	随机地图脚本(AoE必需)	41
+Razed by Others	被他人拆毁	16
+Razings by Gaia	盖亚拆毁数	16
+Razings by P1	P1 拆毁数	14
+Razings by P2	P2 拆毁数	14
+Razings by P3	P3 拆毁数	14
+Razings by P4	P4 拆毁数	14
+Razings by P5	P5 拆毁数	14
+Razings by P6	P6 拆毁数	14
+Razings by P7	P7 拆毁数	14
+Razings by P8	P8 拆毁数	14
+Re-drawer 	重绘器 	11
+Read Error	读取错误	11
+Read failure in png_handle_zTXt	png_handle_zTXt 读取失败	32
+Reading file...	读取文件中...	16
+Rear Attack Modifier	背后攻击修正	21
+Receive blast damage from units that have lower or same blast attack level	受爆攻等级不高于自己的单位爆炸伤害	75
+Recent	最近	7
+Recent/Items	最近/项目	13
+Recent/Version	最近/版本	15
+Recharge Rate	充能速率	14
+Recharge Rate of Shields	护盾充能速率	25
+Recyclable	可回收	11
+Recyclable *	可回收	13
+Redo	重做	5
+Redo last action	重做上次操作	17
+Refresh	刷新	8
+Relay *	中继 *	8
+Releasing mouse capture but capture stack empty?	释放鼠标捕获，但捕获栈为空？	49
+Relic Food Production Rate	圣物食物产生率	27
+Relic Gold Production Rate	圣物金币产生率	27
+Relic Income Sum	圣物收入总计	17
+Relic Stone Production Rate	圣物石头产生率	28
+Relic Wood Production Rate	圣物木材产生率	27
+Relics Captured	圣物夺取数	16
+Relics Visible on Map	地图可见圣物	22
+Reload	装填	7
+Reload Time	装填时间	12
+Remarkable Discovery	重大发现	21
+Remove	移除	7
+removing invalid tracker node	正在移除无效跟踪节点	30
+Rename *	改名	9
+Rename effects	改名效果	15
+Rename for GeniEd 2	为GE2改名	20
+Rep&lace...	替&换...	12
+Repeatable	可重复	11
+Replace <x#> with	替换<x#>为	18
+Replace...	替换...	11
+Replay Delay	回放延迟	13
+requested argument not found - invalid format string?	找不到所需参数 - 格式字符串无效？	54
+Required information entry is empty.	必填信息项为空。	37
+Required Items	所需项目	15
+Required Tech	需求科技	14
+Required Techs	需求科技	15
+Required terrain on some side	一侧需要地形	30
+Research Completed Graphic	研究完成图像	27
+Research Cost Modifier	研究价格调整	23
+Research Location	研究点	18
+Research Locations	研究点	19
+Research tech 	研究科技 	15
+Research Time	研究时间	14
+Research Time Modifier	研究时间调整	23
+Researching Graphic	研究中图像	20
+ResearchLocation count of civs
+	各文明研究点数量
+	32
+ResearchLocationID: 	研究点 ID: 	21
+Resource	资源 	9
+Resource 	资源 	10
+Resource [*] 	资源 [*] 	14
+Resource Capacity	资源容量	18
+Resource Costs	资源价格	15
+Resource Decay	资源衰减	15
+Resource deposited on drop site	在卸货点卸下的资源	32
+Resource gained by gathering	采集获得的资源	29
+Resource Storages	资源存放	18
+Resource that multiplies the amount you gather	使采集量倍增的资源	47
+Retain Local Tech Upgrades 	保留本地科技升级 	28
+Reveal Ally	显示盟友	12
+Reveal Enemy	显示敌人	13
+Reveal Enemy Town Centers	显示敌方城镇中心	26
+Revert to Saved	还原为已保存	16
+RGB color space not permitted on grayscale PNG	灰度 PNG 不允许使用 RGB 色彩空间	47
+Right click image to manually set angle	右键单击图像设角度	40
+Rise of Rome	罗马复兴	13
+Rise of Rome (7.24)	罗马复兴 (7.24)	20
+RoR       	罗马复兴  	11
+Rotate angles *	旋转角度 *	16
+Rotation Angles	旋转角度	16
+Rotation Speed	旋转速度	15
+Row has too many bytes to allocate in memory	该行字节数过多，无法分配内存	45
+Rows	行	5
+Ruins Captured	遗迹夺取数	15
+Run	循	4
+Run Pattern	跑模	12
+Running DAT Processing Tool...	正在运行 DAT 处理工具...	31
+S copy	S复制	7
+S paste	S粘贴	8
+Salvage Decay Rate	残骸衰减率	19
+Save	保存	5
+Save &As...	另存为&A	12
+Save As...	另存为...	11
+Save current document	保存当前文档	22
+Save current document with a different filename	以不同文件名保存当前文档	48
+Save files	保存文件	11
+Save language files *	保存语言文件 *	22
+Save SLP	保存SLP	9
+Save: Can't save unloaded file: 	保存：无法保存未加载的文件: 	33
+Saved SLP 	已保存SLP 	11
+Saving dat file...	保存 DAT 文件...	19
+Saving frame as PNG failed	帧保存为 PNG 失败	27
+Saving into steamapps folder may not work in the game.
+You should create a mod folder tree and save into it.	存到steamapps文件夹可能无法在游戏中生效。
+应创建mod文件夹结构再存入其中。	109
+Saving language files...	正在保存语言文件...	25
+Saving SLP failed	保存 SLP 失败	18
+Saving with different game version!	正以不同游戏版本保存！	36
+Scales collision size under certain circumstances.	在特定情况下缩放碰撞尺寸。	51
+Search Radius	搜索半径	14
+Second building to be placed directly on top of this building
+Additional building gets added every time you load the scenario	直接叠放在此建筑上的第二个建筑
+每次载入场景都会再加上一个建筑	126
+Secondary Projectile Unit	副投射物单位	26
+See unit -> terrain defense bonus
+Pass-ability:
+ 0  Not passable
+ > 0  Passable
+Build-ability:
+ <= 0.05  You cannot build on it.
+ > 0.05  You can build on it.
+Damage Multiplier:
+ 0  Damage multiplier is 1.
+ > 0  Damage multipler is as specified.
+Star Wars: < 1  Damage multiplier is 1.	见单位 -> 地形防御加成
+可通行性：
+ 0  不可通行
+ > 0  可通行
+可建造性：
+ <= 0.05  不能在其上建造。
+ > 0.05  可以在其上建造。
+伤害倍率：
+ 0  伤害倍率为1。
+ > 0  伤害倍率如指定值。
+星战：< 1  伤害倍率为1。	286
+Select &All	全选(&A)	12
+Select a directory	选择文件夹	19
+Select a file	选择文件	14
+Select a folder	选择文件夹	16
+Select All	全选	11
+Select effect first 	先选效果 	21
+Select genie version	选择genie版本	21
+Select Level
+0   None. No interaction.
+1   Object. Can pick.
+2   Resource. Can select, unable to attack or move.
+3   Building. Can select and attack, unable to move.
+4   Unit. Can select, attack and move.	选择级别
+0   无。无交互。
+1   物件。可拾取。
+2   资源。可选中，无法攻击或移动。
+3   建筑。可选中和攻击，无法移动。
+4   单位。可选中、攻击和移动。	205
+Select overlay mask file	选择覆盖遮罩文件	25
+Select particle effect file	选择粒子效果文件	28
+Selected files saved. 	所选文件已保存。	23
+Selected Unit 	选中单位 	15
+Selection Effect	选择效果	17
+Selection Shape	选择形状	16
+Selection Size XY	轮廓尺寸XY	18
+Selection Size Z	轮廓尺寸Z	17
+Selection Sound	选中音效	16
+Selection Wave Works Sound	选中波形音效	27
+Selection Wwise Sound	选中Wwise音效	22
+Selections Mismatch	选择项不匹配	20
+Send file to Tapsa for repair!
+Terrains: 	请把文件发给 Tapsa 修复！
+地形：	42
+SendMessage(BCM_SETIMAGELIST) failed	发送 BCM_SETIMAGELIST 消息失败	37
+Sequence Type	序列类型	14
+Set 	设为	5
+Set &cache size	设置&缓存大小	16
+Set &palettes	调色板(&P)	14
+Set &player color palette	玩家色板(&P)	26
+Set &width of the boxes	设置框&宽度	24
+Set &zoom level	设置&缩放级别	16
+Set Box Width Multiplier	设置框宽倍率	25
+Set Cache Size	设置缓存大小	15
+Set player civ name to lang id 	将玩家文明名设为语言 ID 	32
+Set Priority
+0   Default
+1   Units > Buildings
+2   Buildings > Units
+3   Buildings only	设置优先
+0   默认
+1   单位 > 建筑
+2   建筑 > 单位
+3   仅建筑	88
+Set resource 	设置资源 	14
+Set Scale Factor	设置缩放系数	17
+Set scroll &rate	设置滚动&速率	17
+Set Scroll Rate	设置滚动速率	16
+Set tech 	设置科技 	10
+Set to -1 to use active ability	设为-1则使用主动技能	32
+Set Zoom Level	缩放级别	15
+SetBitmap() must be called first	必须先调用 SetBitmap()	33
+Setting "can be built on" to 1 and this to 0 causes
+farms to be walkable in AoE/RoR.	把“可建其上”设为 1、此项设为 0，
+会让农田在帝国时代/罗马复兴中可行走。	85
+Shadow	阴影	7
+Shallow water	浅水	14
+Shallow Water + Sludge	浅水 + 淤泥	23
+Shape Pointer	形状指针	14
+Shared Exploration	共享探索	19
+Shared Visibility	共享视野	18
+Shatter *	碎裂	10
+Shepherd Productivity	牧羊效率	22
+Shield & Power Units	护盾和能量单位	21
+Shield Generator Range	护盾发生器范围	23
+Shield Recharge Interval	护盾充能间隔	25
+Shields On for Bombers/Fighters	轰炸机/战斗机开启护盾	32
+Ship unit	船只单位	10
+Ships & Saboteur	船只 破坏者	17
+Ships & Saboteur & Camels	船只 破坏者 骆驼	26
+Shore	海岸	6
+Short Guide to Advanced Editing	高级编辑简明指南	32
+Short Tooltip	短提示	14
+should have a valid DC to set up	设置时应有一个有效的 DC	33
+should have pending events if called	调用时应当有待处理事件	37
+should have some images	应包含图像	24
+should only be called for top level popup menus	只应为顶层弹出菜单调用	48
+shouldn't be called at all then	那就不应被调用	32
+shouldn't be called for this BOM type	不应为此 BOM 类型调用该函数	38
+Shouldn't be called if there is no preview.	没有预览时不应调用。	44
+Show	显示	5
+Show &graphics	显示&图形	15
+Show &icons	显示&图标	12
+Show -> frame	显示 -> 帧	14
+Show <- frame	显示<-帧	14
+Show about dialog	显示关于对话框	18
+Show angles	显示角度	12
+Show first frame	显示首帧	17
+Show help	显示帮助	10
+Show unknowns	显示未知项	14
+Siege Units	攻城单位	12
+Siege Weapons	攻城武器	14
+Siege Weapons & Boar	攻城武器和野猪	21
+Size Class	体型类别	11
+SLP Tool	SLP工具	9
+SlpFrame: Unknown cmd at 	SlpFrame: 未知命令 	26
+SlpFrame: Unknown special cmd at 	SlpFrame: 未知特殊命令，位于 	34
+Small Islands (	小岛 (	16
+Smart Mode	智模	11
+Snow	雪地	5
+Snow Graphic	雪地图像	13
+Some alpha feature that let units change terrain under them.
+Specifically from passable to impassable.	某项内测功能，可让单位改变脚下的地形。
+具体是从可通行变为不可通行。	103
+Sorry, not enough memory to create a preview.	抱歉，内存不足，无法创建预览。	46
+Sort Number	排序号	12
+Sound	音效	6
+Sound Files	音文件	12
+Sounds	音效	7
+Sounds (that only you hear)	音效(仅你听)	28
+Sounds: 	音效： 	9
+source composite size does not match target size	源合成尺寸与目标尺寸不匹配	49
+Spawn Cap	生成上限	10
+Spawn Inside	内部生成	13
+Spawn unit 	生成单位 	12
+Spawning area's length	生成区长度	23
+Spawning area's width	生成区宽度	22
+Spawning distance from the unit	与单位的生成距离	32
+Spawning Graphic	生产图像	17
+Spawning point's randomness inside the spawning area
+0   From a single spot
+1   Totally randomly inside the spawning area
+1+ Less randomly	生成点在生成区域内的随机程度
+0   从单个点生成
+1   在生成区域内完全随机
+1+ 随机程度更低	139
+Special Ability	特殊能力	16
+Special Graphic	特殊图像	16
+Special handy renaming button that can be customized by Tapsa	可由Tapsa定制的便捷改名按钮	62
+Special: graphics only	特殊：仅图形	23
+Speed	速度	6
+Speed Reduction (time)	降速(时间)	23
+Speed Reduction (value)	降速(值)	24
+Speedup Building Range	加速建筑射程	23
+Speedup Building Type	加速建筑类型	22
+Speedup Effect Type	加速效果类型	20
+Speedup Object Type	加速对象类型	20
+Speedup Percentage	加速%	19
+Speedup Secondary Effect Type	加速次生效果类型	30
+Speedup Secondary Percentage	加速次生百分比	29
+Spell Check	拼写检查	12
+Spies Discount	间谍折扣	15
+sPLT chunk has bad length	sPLT 块长度错误	26
+sPLT chunk requires too much memory	sPLT 数据块所需内存过多	36
+sPLT out of memory	sPLT 内存不足	19
+Sprite	精灵	7
+Sprite 	精灵	8
+Sprite editor files (*.txt)|*.txt	精灵编辑器文件 (*.txt)|*.txt	34
+Sprite ID Out of Range	精灵 ID 超出范围	23
+Sprite Name	精灵名	12
+Sprite view	精灵名	12
+Sprites	精灵	8
+Stack	堆叠	6
+Stack Unit	堆叠单位	11
+Stand 1	站姿1	8
+Stand 2	站姿2	8
+Standard Buildings	标准建筑	19
+standard Windows menu	标准Windows菜单	22
+Standing Castles	立城堡数	17
+Standing Fortresses	现存堡垒	20
+Standing Graphics	站立图像	18
+Standing Monuments	立碑数	19
+Standing Wonders	立奇观数	17
+Star Wars Unknowns	星战未知项	19
+Star Wars: Galactic Battlegrounds	星球大战：银河战场	34
+Star Wars: Galactic Battlegrounds (1.0)	星球大战：银河战场(1.0)	40
+Start with Packed Town Center	开局带打包城镇中心	30
+Start with Unit 444 (PTWC)	开局带单位444（PTWC）	27
+Starting Carbon	初始碳	16
+Starting Food	初始食物	14
+Starting Gold	初始黄金	14
+Starting index of the main color palette
+from where 8 colors are dedicated to this player color	主调色板的起始索引，
+从这里起有 8 种颜色专用于此玩家颜色	96
+Starting Nova	初始诺瓦	14
+Starting Ore	初始矿石	13
+Starting Scout ID	初始斥候ID	18
+Starting Stone	初始石料	15
+Starting Villagers	初始村民	19
+Starting Wood	初始木材	14
+Statement, 5 1/2 x 8 1/2 in	声明书，5 1/2 x 8 1/2 in	28
+Statistics	统计	11
+Status	状态	7
+Stealth Removal (time)	破隐(时间)	23
+Stealth Removal (value)	破隐(值)	24
+stof argument out of range	stof 参数超出范围	27
+Stone Age	石器时代	10
+Stone Loot Switch	石头战利品开关	18
+Stone Mining Gold Productivity	石矿金产量	31
+Stone Mining Productivity	采石生产率	26
+Stone Score	石头得分	12
+Stone Storage	石料存储	14
+Stone Total	石头总量	12
+Stone Walls & Gates & Towers	石墙 城门 箭塔	29
+Stop WAV	停音	9
+Store Mode *	存模 *	13
+String ID which is displayed as tooltip for the ability button when extended tooltips are enabled	扩展提示开启时能力按钮提示显示的字符串ID	98
+String ID which is displayed as tooltip for the ability button when extended tooltips are off	扩展提示关闭时能力按钮提示显示的字符串ID	94
+string too large	字符串过大	17
+string too long	字符串过长	16
+Submarine Detection	潜艇探测	20
+successfully initialized GDI+	GDI+ 初始化成功	30
+Supported batch modifiers for strings are /+[text] and /-[integer]	字符串支持的批量修饰符为 /+[文本] 和 /-[整数]	67
+Survival to Finish	坚持到最后	19
+SW only	仅星战	8
+SW: Biological unit	SW: 生物单位	20
+SW: Detector unit	SW: 探测单位	18
+SW: Invisible unit	SW: 隐形单位	19
+SW: Livestock	SW: 牲畜	14
+SW: Mechanical unit	SW: 机械单位	20
+SW: Self-shielding unit	SW: 自身护盾单位	24
+SW: Stealth unit	SW: 潜行单位	17
+Sync with read paths	与读取路径同步	21
+syntax error	语法错误	13
+Tabloid Extra 11.69 x 18 in	小报加长 11.69 x 18 in	28
+Tapsa/AGE on GitHub	Tapsa/AGE 项目主页	20
+Tapsa/genieutils on GitHub	Tapsa/genieutils 项目主页	27
+Target Unit 	目标单位 	13
+Task Count	任务数量	11
+Task Swap Group	任务换组	16
+Tasks	任务	6
+Tasks (Shared by all civilizations in legacy Age of Empires II and Star Wars Galactic Battlegrounds)	旧帝国2星战文明	101
+Tax Gather Rate	税收采集率	16
+TC        	征服者    	11
+TC TP     	征服者TP  	11
+Team 	队伍 	6
+Tech	科技	5
+Tech 	科技	6
+Tech Cost Modifier	科技价格修正	19
+Tech Cost Sum	科技总价	14
+Tech Level 1 Tech ID	科技等级1科技 ID	21
+Tech Level 2 Tech ID	科技等级2科技 ID	21
+Tech Level 3 Tech ID	科技等级3科技 ID	21
+Tech Level 4 Tech ID	科技等级4科技 ID	21
+Tech Time Modifier	科技时间修正	19
+Tech Trees	科技树	11
+Technologies	科技	13
+Technology	科技	11
+Technology Count	科技数量	17
+Technology Reward Effect	科技奖励	25
+Technology: 	科技: 	13
+Techs	科技	6
+techs	科技	6
+Techs: 	科技： 	8
+Terrain	地形	8
+Terrain block 	地形块 	15
+Terrain Borders	地形边界	16
+Terrain Defense Bonus	地形防御加成	22
+Terrain Dimensions	地形尺寸	19
+Terrain produced under a building when completed	建筑完成时在底部产生的地形	49
+Terrain Table	地形表	14
+Terrain table ID
+Receive damage based on which terrain this unit stands on.
+Effect attribute 18 changes this.
+The damage received by this unit is
+multiplied by the accessible values on
+the specified terrain table.	地形表 ID
+受到的伤害取决于本单位所站地形。
+效果属性18会改变这一点。
+本单位受到的伤害会
+乘以指定地形表上
+可用的数值。	214
+Terrain Tables	地形表	15
+Terrain to Draw	绘制地形	16
+Terrain Units Used	地形使用的单位	19
+Terrains	地形	9
+Terrains placed on the map	地图上放置的地形	27
+Terrains: 	地形：	11
+Test      	测试      	11
+test failure	测试失败	13
+text chunk: out of memory	文本块：内存不足	26
+text compression mode is out of range	文本压缩模式超出范围	38
+Thaw() without matching Freeze()	Thaw() 缺少对应的 Freeze()	33
+the application	该应用程序	16
+The building that an annex building is attached to	附属建筑所依附的建筑	51
+the case Remove == Pop should was already handled	Remove == Pop 的情形应已处理过	50
+The Conquerors	征服者	15
+The Conquerors (11.76)	征服者 (11.76)	23
+The Conquerors (11.76) + Terrain patch	征服者(11.76)+地形补丁	39
+The Conquerors (11.76) + UserPatch 1.5	征服者 (11.76) + UserPatch 1.5	39
+The current frame (includes animation and pause frames)	当前帧(含动画与暂停帧)	56
+The current frame to draw	当前绘制帧	26
+The DAT Processing Tool is still running, are you sure you want to quit?	DAT处理工具仍在运行，确定退出？	73
+The number of directions that a unit/ship faces	单位/船只的朝向方向数	48
+The player color to be forced on the graphic	图像上强制使用的玩家色	45
+The previous message repeated once.	上一条消息重复了一次。	36
+the thread in which it happened	发生所在的线程	32
+The unit that has this attribute set
+will never go below the determined HP.
+If it receives additional damage
+the HP is clamped at this value
+and the unit is not allowed to die.
+> 0   multiplier of base HP
+< 0   set value of HP	设置此属性的单位
+生命值永远不会低于确定值。
+若再受到伤害
+生命值会被卡在该值
+且单位不允许死亡。
+> 0   基础生命值的倍率
+< 0   生命值设定值	227
+This area cannot contain different elevations or terrains
+Terrain edge fading affects this	此区域不能含不同的高度或地形
+地形边缘渐隐会影响它	91
+This armor is used for attack types that have no corresponding armor type
+Can be negative only in The Conquerors and later games	此护甲用于没有对应护甲类型的攻击类型
+仅能在征服者及之后的游戏中为负	129
+This has something to do with all 19 tile types
+Mickey's DAT had this removed and
+instead added one border shape to each 19 tile types	这与全部 19 种地块类有关
+Mickey 的 DAT 把它删掉了，
+改为给全部 19 种地块类各加一个边界形状	135
+this helper list should be empty	此辅助列表应为空	33
+This is a byte of eight booleans
+You can combine these attributes	这是一个八位布尔值的字节
+这些属性可以组合	66
+This is actually leftover from attribute+civ variable
+Probably useless	其实这是属性+文明变量的遗留项
+大概没什么用	71
+This is Not the window targeted by this gesture!	这不是此手势所指向的窗口！	49
+this only works with multiple selection controls	此功能仅适用于多选控件	49
+This variable is used, but should probably be set to 0	此变量有用但应设为0	55
+Tile Type 	地块类型 	11
+Tile Types	地块类	11
+Time between frames	帧间时间	20
+Time to pause after last frame	末帧后暂停时间	31
+Times listed: 	列出次数： 	15
+TLS index not set. Is wx initialized?	TLS索引未设置。wx是否已初始化？	38
+To Unit 	转为单位	9
+Toggle float display mode	切换浮点显示模式	26
+Toggle hex mode (data not editable)	切换十六进制模式（只读）	36
+Toggle pasting between 1:1 and sequentially	切换1:1与顺序粘贴	44
+Toggle reselection when relisting	跟随重列重选	34
+token overflow	标记溢出	15
+too many fields	字段过多	16
+too many length or distance symbols	长度或距离符号过多	36
+too many profiles	配置文件过多	18
+Tool Age	工具时代	9
+Tool Age Tech ID	石器时代科技ID	17
+Total Build Value Buildings	建筑总建造值	28
+Total Build Value Units	建筑总价值单位	24
+Total Castles Built	累计建成城堡	20
+Total Fortresses Built	堡垒建造总数	23
+Total missiles including both normal and duplicated projectiles	投射物总数，含普通与复制投射物	64
+Total missiles when garrison capacity is full	驻扎满员时的投射物总数	46
+Total Monuments Built	纪念碑建造总数	22
+Total Projectiles	投射物总数	18
+Total Tribute Received	贡品接收总量	23
+Total units and techs at first in age *	时代首项单位与科技 *	40
+Total units and techs by age *	总单位与科技 *	31
+Total Units Owned	拥有单位总数	18
+Total Value of Kills	击杀总价值	21
+Total Value of Razings	摧毁建筑总价值	23
+Total Villager Idle Periods	村民总空闲次数	28
+Total Villager Idle Seconds	村民总空闲秒数	28
+Total Villagers Created	村民总生产数	24
+Total Wonders Built	累计建成奇观	20
+ToWChar() can't return 0 for non-empty input	ToWChar() 对非空输入不能返回 0	45
+Towers & Walls	箭塔和城墙	15
+Towers & Walls & Archers	塔&墙&弓箭手	25
+Towers & Walls & Fire Galley	塔&墙&火帆船	29
+Towers & Walls, Melee	塔和墙，近战	22
+Towers & Walls, Pierce	塔&墙,远程	23
+Town Center Unavailable	城镇中心不可用	24
+Track as Resource
+Allows automatic gathering and handles fog visibility	作为资源追踪
+允许自动采集并处理雾可见性	72
+Tracking ID	追踪 ID	12
+Trade Food Percent	食物贸易%	19
+Trade Goods	贸易货物	12
+Trade Income Sum	贸易收入总计	17
+Trade Production	贸易产出	17
+Trade Stone Percent	贸易石头比例	20
+Trade Vig Rate	贸易活力率	15
+Trade Wood Percent	木材贸易%	19
+Trailing Unit	牵引单位	14
+Trailing Unit Density	牵引单位密度	22
+Trailing Unit Mode	牵引单位模式	19
+Train Button	训练按钮	13
+Train Location	训练点	15
+Train Locations	训练点	16
+Train Sound	训练音效	12
+Train Time	训时间	11
+Train Wave Works Sound	训练波形音效	23
+Train Wwise Sound	训练Wwise音效	18
+Training Count	训练数量	15
+TrainLocation count of civs
+	各文明训练点数量
+	29
+TrainLocationID: 	训练点 ID: 	18
+Trait	特性	6
+Transform selected into unit 	将选中项变为单位 	30
+Transform Sound	变身音效	16
+Transform Unit	变身单位	15
+Transform Wave Works Sound	变身波形音效	27
+Transparent Picking	透明拾取	20
+Trees	树木	6
+Tribute from Gaia	来自盖亚进贡	18
+Tribute from P1	来自P1的进贡	16
+Tribute from P2	来自P2的进贡	16
+Tribute from P3	来自P3的进贡	16
+Tribute from P4	来自P4的进贡	16
+Tribute from P5	来自P5的进贡	16
+Tribute from P6	来自P6的贡品	16
+Tribute from P7	来自P7的贡品	16
+Tribute from P8	来自P8的贡品	16
+Tribute Inefficiency	进贡损耗	21
+Tribute Score	进贡分	14
+Tribute Sent	已送出进贡	13
+Trigger Shared Visibility	触发共享视野	26
+tRNS chunk has out-of-range samples for bit_depth	tRNS 块的样本超出 bit_depth 范围	50
+tRNS must be after	tRNS 必须在其后	19
+Trying to choose default language...	正在选择默认语言...	37
+Trying to load header again!	试图再次加载文件头！	29
+Trying to rewrite string converted to wrong codepage	试图重写已转换成错误代码页的字符串	53
+Trying to unload a not loaded slpfile!	试图卸载未加载的SLP文件！	39
+Trying to unload a not loaded smpfile!	试图卸载未加载的SMP文件！	39
+Trying to unload a not loaded smxfile!	试图卸载未加载的SMX文件！	39
+Turrets & Gates	箭塔和门	16
+Turtle Ships	龟船	13
+Type	类型	5
+Type 	类型	6
+Type 60	类型60	8
+Type 80	类型80	8
+Types 10, 15, 90, 20+	类型10,15,90,20+	22
+Types 30+	类型30+	10
+Types 40+	类型40+	10
+Types 50+	类型50+	10
+Types 70+	类型70+	10
+Unable to save expansion language file!	无法保存资料片语言文件！	40
+Unable to save expansion language patch file!	无法保存资料片语言补丁文件！	46
+Unable to save language file!	无法保存语言文件！	30
+Unable to save the file!	无法保存该文件！	25
+Undead Mode	亡模	12
+Undead Mode *	亡模 *	14
+Undelete	恢复	9
+Underline	下划线	10
+Undo	撤销	5
+Undo last action	撤销上次操作	17
+unexpected argument type	意外的参数类型	25
+unexpected end of LZ stream	LZ 数据流意外结束	28
+unexpected ICC PCS encoding	意外的 ICC PCS 编码	28
+unexpected zlib return code	意外的 zlib 返回码	28
+unhandled critical chunk	未处理的关键块	25
+Unhandled Event	未处理事件	16
+Unindent	取消缩进	9
+Uninitialized row	未初始化的行	18
+Unique Units	特殊单位	13
+Unique Units (except Turtle Ship)	特殊单位(除龟船)	34
+Unit	单位	5
+Unit 	单位	6
+Unit Header	单位头部	12
+Unit Level
+Class and this sets the interface for this unit
+0   None
+1   Resource
+2   Building (build page 1)
+3   Civilian
+4   Soldier
+5   Trade Unit
+6   Priest
+7   Transport Ship
+8   Relic / Priest with Relic
+9   Fishing Boat
+10   (A=2&8) Military Building (build page 2)
+11   Shield Building (build page 3)	单位级别
+配合类别设定本单位的界面
+0   无
+1   资源
+2   建筑（建造页1）
+3   平民
+4   士兵
+5   贸易单位
+6   僧侣
+7   运输船
+8   圣物 / 携带圣物的僧侣
+9   渔船
+10   (A=2&8) 军事建筑（建造页2）
+11   盾牌建筑（建造页3）	308
+Unit Limit	单位上限	11
+Unit Repair Cost	单位修理费	17
+Unit special paste	单位特殊粘贴	19
+Unit task ID executed when idle.
+To get the unit auto-converted to enemy,
+use unit command 107, which sheep and monument have.	待机时执行的单位任务 ID。
+要让单位自动转为敌方阵营，
+用单位命令 107，绵羊和纪念碑就是用它。	127
+Unit: 	单位: 	7
+Unitline	单位线	9
+Unitline 	单位线	10
+Unitlines	单位线	10
+Unitlines (Used by AIs)	单位线(AI)	24
+Units	单元	6
+units	单位	6
+Units & Techs @ 1st by Age	各单位科技按时代归入1	27
+Units & Techs by Age	按时代的单位 & 科技	21
+Units between 900 and 1000 mess up the AI!	900 到 1000 之间的单位会导致 AI 出错！	43
+Units Converted	招降单位数	16
+Units Killed	击杀单位	13
+Units placed on the map (Some may appear anyway)	地图上放置的单位(或仍出现)	49
+Units with low sort numbers are drawn last
+0   Can be placed on top of other units in scenario editor
+5   Cannot be placed on top of other units in scenario editor	排序号小的单位最后绘制
+0   在场景编辑器中可叠放在其它单位上
+5   在场景编辑器中不能叠放在其它单位上	164
+Units: 	单位： 	8
+Unk. Type 	未知类型 	11
+Unknown	未知	8
+unknown (%lu)	未知 (%lu)	14
+unknown background style	未知背景样式	25
+unknown BOM type	未知 BOM 类型	17
+unknown chunk exceeds memory limits	未知数据块超出内存上限	36
+unknown chunk: out of memory	未知数据块：内存不足	29
+Unknown cmd [%X]	未知命令 [%X]	17
+unknown compression method	未知的压缩方法	27
+Unknown compression method in IHDR	IHDR 中的压缩方法未知	35
+unknown compression type	未知压缩类型	25
+Unknown custom filter method	自定义过滤方法未知	29
+unknown exception	未知异常	18
+Unknown exception	未知异常	18
+Unknown filter method in IHDR	IHDR 中的过滤方法未知	30
+unknown font style	未知字体样式	19
+unknown header flags set	未知的头部标志	25
+unknown help even origin	未知帮助事件来源	25
+Unknown image data format.	未知的图像数据格式。	27
+unknown image list	未知图像列表	19
+Unknown interlace method in IHDR	IHDR 中的未知交错方式	33
+unknown name	名称未知	13
+Unknown row filter for method 0	方法 0 的未知行过滤器	32
+Unknown special cmd [%X]	未知特殊命令 [%X]	25
+Unknowns 2 to 5 are in the beginning of the file,
+right after civilization count (first of the two) and
+before terrain tables	未知项2到5位于文件开头，
+紧接文明数量之后（两者中的第一个），
+位于地形表之前	126
+Unkown1: 	未知1： 	10
+Unkown2: 	未知2： 	10
+Unkown3: 	未知3： 	10
+Unkown4: 	未知4： 	10
+Unkown5: 	未知5： 	10
+Unload DRS files	卸载DRS文件	17
+unordered_map/set too long	unordered_map/set 过长	27
+Unpowered Building Work Rate Multiplier	未通电建筑工作率倍率	40
+unreachable code	不可达代码	17
+unrecognized equation type	无法识别的方程类型	27
+unrecognized ICC profile class	无法识别的 ICC 配置文件类别	31
+Unrecognized unit type for oFFs chunk	无法识别的 oFFs 数据块单位类型	38
+Unrecognized unit type for pHYs chunk	无法识别的 pHYs 数据块单位类型	38
+Unselectable
+Not scanned but set to 1 for class 11
+Can change during gameplay	不可选中
+不扫描，但类别 11 会设为 1
+游戏中可以改变	78
+unsetting icons doesn't work	取消图标设置无效	29
+Unsupported file (missing functionality)	不支持的文件（功能缺失）	41
+Unsupported format: sample size (	不支持的格式：采样大小 (	34
+Unsupported IPC format for Advise()	Advise() 不支持该 IPC 格式	36
+Unsupported sample size: 	不支持的采样大小：	26
+unsupported title bar button	不支持的标题栏按钮	29
+unsupported zlib version	不支持的 zlib 版本	25
+Unused	未用	7
+Unused
+Developers forgot to implement this?	未用
+开发者忘记实现了吗？	44
+Unused 	未用	8
+Unused (Allow Formations)	未用（允许阵型）	26
+Unused (Building Limit)	未用（建筑上限）	24
+Unused (Food Limit)	未用（食物上限）	20
+Unused (Formations)	未用（阵型）	20
+Unused (Houses)	未用（房屋）	16
+Unused (Trade Bonus)	未用（贸易加成）	21
+Unused (Trade Good Quality)	未用（商品质量）	28
+Unused (Trade Market Level)	未用（贸易市场等级）	28
+Unused (Trade Production)	未用（贸易生产）	26
+Unused (Trade Tax)	未用（贸易税）	19
+Unused Ability/Invalid Ability	未用能力/无效能力	31
+Unused Flag	未用标	12
+Unused Type/No Type	未用类型/无类型	20
+Unused Zone Data	未用数据	17
+Upgrade Graphic	 升级图像	16
+Upgrade unit 	升级单位 	14
+Upgrades unit
+Used by units, which aren't first in upgrade line	升级单位
+用于升级线中非首位的单位	64
+Upper Building	上层建筑	15
+Upper search boxes are inclusive and lower ones exclusive.
+	上层搜索框含边界，下层不含。
+	60
+US Std Fanfold, 14 7/8 x 11 in	US 折叠纸，14 7/8 x 11 in	31
+Use b+[x], b-[x], b*[x] or b/[x]
+where [x] is a number.	用 b+[x]、b-[x]、b*[x] 或 b/[x]
+其中 [x] 是数字	56
+Used	已用	5
+Used 	已用	6
+Used by Age of Empires DE and II DE	供帝国时代DE和II DE使用	36
+Used for sprite editor	用于精灵编辑器	23
+Used for terrain passability check	用于地形通行性检查	35
+Used on the borders as well	边界上也可用	28
+Used to fuzz edges	用于虚化边缘	19
+Used to get 3rd and 5th box to 360 degrees	用于使第3、5盒达360度	43
+Used to populate lists for attacks, armors, civilization resources, and terrain tables	用于填充攻击、护甲、文明资源和地形表	87
+Used when actually gathering a resource or attacking/converting	正在采集或攻击/转化时	64
+Used when carrying a resource	携带资源时	30
+Used when proceeding to gather a resource or attack	前往采集资源或攻击时	52
+Used when walking with a tool, but carrying no resources	持工具行走且无资源时	57
+Useful for stack unit placement
+0   Default
+1   Makes the building disappear when built	对堆叠单位的放置很有用
+0   默认
+1   建成后让建筑消失	88
+Uses its own attack values!	使用自身的攻击数值！	28
+Usual Technology File Pattern for The Conquerors
+Name: 7000-7999
+Description: Name +1000
+Help: Name +100000, in file Name +21000
+Tech tree: Name +150000, in file Name +10000	征服者惯用科技文件命名模式
+名称: 7000-7999
+描述: 名称 +1000
+帮助: 名称 +100000，位于文件 名称 +21000
+科技树: 名称 +150000，位于文件 名称 +10000	174
+Usual Unit File Pattern for The Conquerors
+Name: 5000-5999
+Creation: Name +1000
+Hotkey: Name +11000
+Help: Name +100000, in file Name +21000
+Hotkey Text: Name +150000, in file Name +10000
+Tech tree: Name +9000	征服者惯用单位文件命名模式
+名称: 5000-5999
+创建: 名称 +1000
+热键: 名称 +11000
+帮助: 名称 +100000，位于文件 名称 +21000
+热键文本: 名称 +150000，位于文件 名称 +10000
+科技树: 名称 +9000	209
+Value Current Buildings	当前建筑价值	24
+Value Current Units	当前单位价值	20
+value is not null	值不为空	18
+Value Killed by Others	被他人击杀价值	23
+Value Razed by Others	被他人毁坏价值	22
+Value Wonders Castles	奇观城堡分值	22
+Vanish Mode	消模	12
+variable shouldn't be already set	变量不应已被设置	34
+vector too long	向量过长	16
+Vertical Line Number	垂直线编号	21
+View damage graphics	查看伤害图	21
+Villagers & Gazelles & Medusa	村民和瞪羚和蛇发女妖	30
+Villagers Killed By AI Players	被AI玩家击杀的村民	31
+Villagers Killed By Animals	被动物击杀的村民	28
+Villagers Killed By Gaia	村民被盖亚杀死	25
+Villagers Killed By Human Players	被人类玩家击杀的村民	34
+Villagers/Trade Carts	村民/贸易车	22
+Visible resource group
+Needs to be gatherable
+0   Tree
+1   Berry
+2   Fish
+3   Stone/ore
+4   Gold/nova	可见资源组
+需要可采集
+0   树木
+1   浆果
+2   鱼
+3   石/矿
+4   金/诺瓦	102
+Waiting time in seconds before animation restarts again	动画重启前的等待秒数	56
+Walk	行走	5
+Walking Graphics	行走图像	17
+Walls & Gates	城墙和门	14
+War Elephants	战象	14
+WARNING! This feature is still experimental	警告！此功能仍为实验性	44
+WARNING! This feature is still experimental
+and affects reading too	警告！此功能仍为实验性
+且也会影响读取	68
+Warning!: vector size differs len!	警告！向量大小与长度不符！	35
+Warning!: vector size differs size!	警告！向量大小不匹配！	36
+Warning: 	警告： 	10
+Warning: Adding named nodes is not supported yet!
+	警告：尚不支持添加命名节点！
+	51
+Warning: Size mismatch between angle sounds and angles!	警告：角度音效与角度数量不一致！	56
+Was probably used similarly to unit icon	用途可能类似单位图标	41
+Wasteland	荒地	10
+Water	水域	6
+Water (Shipyard Placement)	水域（船坞放置）	27
+Water + [Small Wave]	水+[小浪]	21
+Water + beach	水+沙滩	14
+Water + bridge - beach	水+桥-沙滩	23
+Water + Shore, Ice	水+岸、冰	19
+Water + Shore, Swamp, [Large Waves]	水+岸、沼泽、[大浪]	36
+Water - Deep Water	水-深水	19
+Water - Shore + Bridge	水-海岸+桥	23
+Water, large wave	水,大浪	18
+Water, medium wave	水,中浪	19
+Water, small wave	水,小浪	18
+Wave Works Sound	波浪音效	17
+Wave Works Stop Sound	WaveWorks停止音效	22
+When "All civs" is not selected,
+this and pasting works just like automatic copy,
+(from current civilization to selected ones)
+taking "Including graphics" option into account	未选中“所有文明”时，
+此操作和粘贴与自动复制相同，
+（从当前文明复制到所选文明）
+并会考虑“含图像”选项	175
+When "All civs" is not selected,
+this and pasting works only for current civilization	未选中“所有文明”时，
+此操作和粘贴仅对当前文明生效	86
+When tasking the unit, it will transform into another unit,
+if the action is not found in this unit, but exists on another unit,
+that uses the same task swap group.
+Changes according to task
+1   Male villager
+2   Female villager
+3+ Free slots	给单位派任务时，它会变身为另一单位，
+条件是本单位没有该动作，而别的单位有，
+且两者使用同一任务换组。
+随任务变化
+1   男性村民
+2   女性村民
+3+ 空槽位	243
+Whether buttons of units operate on all civs or just on the selected one
+Note that adding, inserting and deleting units always affect all civilizations!	单位按钮是作用于所有文明还是仅所选文明
+注意：添加、插入和删除单位始终影响所有文明！	153
+window	 窗口 	7
+window can't be recreated	窗口无法重新创建	26
+Wipe Out	清除	9
+Wood Loot Switch	木材战利品开关	17
+Wood Score	木材分	11
+Wood Storage	木材储存	13
+Wood Total	木材总量	11
+Work	工作	5
+Work Flag 1
+AoE 1: Used when farm is dead but still exists
+0   Plunder from resource
+1   Plunder from players
+2   Raider thing?	工作标志 1
+帝国时代1：用于农田已死但仍存在的情况
+0   从资源掠夺
+1   从玩家掠夺
+2   掠夺者相关？	128
+Work Rate	工作率	10
+Work rate modifier
+Minimum conversion time	工作率修正
+最短招降时间	43
+Workers	工人	8
+Workshop Food Generation	工坊食物产出	25
+Workshop Gold Generation	工坊黄金产出	25
+Workshop Stone Generation	工坊石头产生率	26
+Workshop Wood Generation	工坊木材产出	25
+Write Error	写入错误	12
+Write language files *	写出语言文件 *	23
+Write to the latest file instead of the base file *      Google Resource Hacker or Resource Tuner	写入最新文件而非基础文件 *      需要 Google Resource Hacker 或 Resource Tuner	98
+Writing zero-length unknown chunk	写入零长度未知数据块	34
+Wrong version	版本错误	14
+Wrote "	写入 "	8
+XPM: incorrect header format!	XPM：头格式不正确！	30
+XPM: Malformed pixel data!	XPM：像素数据格式错误！	27
+XPM: no colors left to use for mask!	XPM：遮罩已无可用颜色！	37
+Yes	是	4
+You can click on SLP view and use WASD to change these	点击SLP视图用WASD修改	55
+You can garrison any type,
+if you add the garrison action targeting this class/unit,
+but you may need to hold the alt key while choosing to garrison.	只要添加以该类别/单位为目标的驻扎动作，
+就能驻扎任意类型，
+但选择驻扎时可能需要按住 Alt 键。	150
+You can have multiple search entries separated with '|' letter.
+	可用'|'分隔多个搜索条目。
+	65
+You can switch from "or" finding to "and" finding with check boxes.
+	可用勾选框在"或"查找与"和"查找间切换。
+	69
+your program	你的程序	13
+zero font height	字体高度为零	17
+Zlib compression failed with error code: 	Zlib压缩失败，错误码：	42
+Zlib decompression failed with error code: 	Zlib 解压失败，错误码：	44
+zlib error	zlib 错误	11
+zlib IO error	zlib IO 错误	14
+Zoom &In	放大&I	9
+Zoom &Out	缩小&O	10
+Zoom In	放大	8
+Zoom Out	缩小	9
+Zoom to &Fit	缩放&适应	13
+Zoom to Fit	缩放适应	12
+Zoom: 	缩放：	7
+zstream unclaimed	zstream 未认领	18
+zTXt: invalid compression type	zTXt：压缩类型无效	31
+
+
+======== 汉化对照表 · By RemonBo ========

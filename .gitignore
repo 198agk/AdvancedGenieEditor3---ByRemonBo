@@ -1,0 +1,25 @@
+# 大文件与压缩包（请作为 GitHub Releases 附件上传，不要提交到仓库）
+*.zip
+*.rar
+*.7z
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+build/
+dist/
+*.spec
+
+# 工具运行时生成
+age_data_search/
+config.json
+*.pkl
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 文明卡整图（62 张，约 38 MB，随发布包一起提供，不入仓库）
+官方数据/帝国时代2决定版全文明特色/
